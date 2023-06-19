@@ -2,6 +2,11 @@
 title: "Isabel Duarte's Homepage"
 date: "Last update on `r format(Sys.time(), '%d %B, %Y')`"
 output: html_document
+knit: |
+  (function(inputFile, ...) { 
+    rmarkdown::render(inputFile,
+                output_file='index.html')
+  })
 ---
 
 ### {.tabset .tabset-fade .tabset-pills}
@@ -377,7 +382,7 @@ I love science & I love to write. This section showcases some of the results whe
 
 - Between 2007 and 2008, I wrote a science column for the portuguese newspaper [Diário do Minho](https://www.diariodominho.pt/). These are the 3 most shared texts (in Portuguese only).
 
-[![](pics/diario_do_minho_montage.png){width=75%}](http://188.166.21.228/diarios_do_minho/)
+[![](pics/diario_do_minho_montage.png){width=75%}](https://drive.google.com/drive/folders/1BrpLezYt1gOU95Cq3y8nODNfIN9GSvr8?usp=sharing)
 
 </br>
 
