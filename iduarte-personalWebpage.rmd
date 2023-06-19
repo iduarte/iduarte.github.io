@@ -374,9 +374,9 @@ I love science & I love to write. This section showcases some of the results whe
 
 </br>
 
-- [**Alice in Researchland: How Large Language Models are unlocking the ultimate cancer research assistant**](https://febs.onlinelibrary.wiley.com/hub/journal/18780261/honourable-mention-2023-molecular-oncology-writing-competition-duarte) | FEBS Honorary mention | Have you heard about Large Language Models? Or perhaps, ChatGPT? Here is what I have to say about it.
+- [**Alice in Researchland: How Large Language Models are unlocking the ultimate cancer research assistant**](https://network.febs.org/posts/alice-in-researchland-how-large-language-models-are-unlocking-the-ultimate-cancer-research-assistant) | FEBS Honorary mention | Have you heard about Large Language Models? Or perhaps, ChatGPT? Here is what I have to say about it.
 
-[![](pics/febs_honourable_mention.png){width=75%}](https://febs.onlinelibrary.wiley.com/hub/journal/18780261/honourable-mention-2023-molecular-oncology-writing-competition-duarte)
+[![](pics/febs_honourable_mention.png){width=75%}](https://network.febs.org/posts/alice-in-researchland-how-large-language-models-are-unlocking-the-ultimate-cancer-research-assistant)
 
 </br>
 
