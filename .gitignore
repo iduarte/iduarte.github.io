@@ -4,8 +4,8 @@
 .httr-oauth
 .DS_Store
 _quarto.yml
-extras_no_git
-pics
+/extras_no_git
+/pics
 personalWebpage.Rproj
 *.qmd
 
