@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Last update | May 2024\n\n\n\n\nWelcome to my webpage. \nI am a researcher using computational biology to answer biologically relevant questions. I am particularly interested in studying Cancer, but also Vertebrate embryo development, Mitochondria, and Evolution.\nHere you will find more about my Academic CV, Scientific journey, Outreach activities, and a bit about my hobbies and interests. \nI believe in Open Reproducible Science, and I am always keen on establishing new scientific collaborations. Feel free to reach out. \n\n\n\n\n\n\n Back to top"
+    "text": "Last update | June 2024\n\n\n\n\nWelcome to my webpage. \nI am a researcher using computational biology to answer biologically relevant questions. I am particularly interested in studying Cancer, but also Vertebrate embryo development, Mitochondria, and Evolution. \nHere you will find more about my Academic CV, Scientific journey, Outreach activities, and a bit about my hobbies and interests. \nI believe in Open Reproducible Science, and I am always keen on establishing new scientific collaborations. Feel free to reach out. \n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "my_outreach.html",
@@ -53,6 +53,13 @@
     "href": "my_projects.html",
     "title": "My Projects",
     "section": "",
-    "text": "My current projects are:\n\nCaCau | Cancer Causality\nMitoProfiles | Mitochondrial proteome expression profiles\n\n\n\n\n Back to top"
+    "text": "My current projects are:\n\nCaCau | Cancer Causality\nMitoProfiles | Mitochondrial proteome expression profiles\n\n\nCurrent funding\n\n2022-2028\nFCT Individual Fellowship\n2021.00238.CEECIND\n2024-25\nFCT Advanced Computational Resources Grant\n2023.10973.CPCA\n\n\nPast funding\n\n2024\nFCT Advanced Computational Resources Grant\n2023.09536.CPCA.A1\n2023\nFCT Advanced Computational Resources Grant\n2022.46814.CPCA.A0\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "my_projects.html#funding",
+    "href": "my_projects.html#funding",
+    "title": "My Projects",
+    "section": "Funding",
+    "text": "Funding\n\n2022-2028\nFCT Individual salary fellowship\n2021.00238.CEECIND\n2024-25\nFCT Advanced Computational Resources Grant\n2023.10973.CPCA\n2024\nFCT Advanced Computational Resources Grant\n2023.09536.CPCA.A1\n2023\nFCT Advanced Computational Resources Grant\n2022.46814.CPCA.A0"
   }
 ]
