@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>My Science – Isabel Duarte</title>
+<title>My Lab – Isabel Duarte</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./pics/favicon_iduarte.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -67,7 +69,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -179,7 +239,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">My Science</h1>
+<h1 class="title">My Lab</h1>
 </div>
 
 
@@ -196,39 +256,102 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>I am a full time scientist, and curiosity is my main driver. I am passionate about Open Science and I am always keen on establishing new collaborations.</p>
-<p><strong>Academic Resume</strong> | I have a <em>PhD in Medical Sciences</em> from the Radboud Universiteit (Nijmengen, The Netherlands); a <em>Masters degree in Oncology</em> by ICBAS - Universidade do Porto (Portugal); and a <em>Bachelor degree in Applied Biology</em> by Universidade do Minho Braga (Portugal). I have published over 27 articles in international journals, developed several RData packages as well as other software tools for the biomedical research community.</p>
-<p><strong>Work</strong> | I use <em>Computational Biology/Bioinformatics</em> as a way of answering biologically relevant questions. I have used OMICs datasets to study the genetic regulation of cancer, early vertebrate embryo development, stem cell differentiation, and mitochondrial evolution.</p>
-<p><strong>Interests</strong> | My research interests are focused on understanding <strong>how gene expression profiles translate into robust genetic modules</strong> that explain the phenotypic plasticity observed in healthy and diseased cells, particularly in cancer. Such knowledge holds the promise to better explain the molecular mechanisms underlying cancer biology.</p>
-<p><br></p>
-<section id="cacau-project-cancer-causality-for-precision-oncology" class="level5">
-<h5 class="anchored" data-anchor-id="cacau-project-cancer-causality-for-precision-oncology">CACAU Project | Cancer causality for precision oncology</h5>
-<p><img src="pics/causality_books2023.png" class="img-fluid" style="width:75.0%"></p>
-<p><br></p>
-</section>
-<section id="devocancer-project-differential-allelic-expression-in-breast-cancer-mutations" class="level5">
-<h5 class="anchored" data-anchor-id="devocancer-project-differential-allelic-expression-in-breast-cancer-mutations">DEvoCancer Project | Differential Allelic Expression in Breast Cancer mutations</h5>
-<p><img src="pics/my_work_devocancer.png" class="img-fluid" style="width:75.0%"></p>
-<p><br></p>
-</section>
-<section id="clockome-project-microrna-regulation-of-the-vertebrate-embryo-molecular-clock" class="level5">
-<h5 class="anchored" data-anchor-id="clockome-project-microrna-regulation-of-the-vertebrate-embryo-molecular-clock">ClockOME Project | microRNA regulation of the vertebrate embryo molecular clock</h5>
-<p><img src="pics/my_work_clockome.png" class="img-fluid" style="width:75.0%"></p>
-<p><br></p>
-</section>
-<section id="splice-project-alternative-splicing-in-cardiomyogenesis" class="level5">
-<h5 class="anchored" data-anchor-id="splice-project-alternative-splicing-in-cardiomyogenesis">SPLICE Project | Alternative splicing in cardiomyogenesis</h5>
-<p><img src="pics/my_work_splice.png" class="img-fluid" style="width:75.0%"></p>
-<p><br></p>
-</section>
-<section id="my-phd-project-the-alternative-evolutionary-fates-of-mitochondrial-proteins" class="level5">
-<h5 class="anchored" data-anchor-id="my-phd-project-the-alternative-evolutionary-fates-of-mitochondrial-proteins">My PhD Project | The alternative evolutionary fates of mitochondrial proteins</h5>
-<p><img src="pics/my_work_phd_project.png" class="img-fluid" style="width:75.0%"></p>
 
 
-</section>
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1729175103775" data-listing-reading-time-sort="1" data-listing-word-count-sort="8">
+<a href="./my_lab_members/A_rmagno/rmagno.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./my_lab_members/A_rmagno/A_rmagno.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ramiro Magno
+</h5>
+<div class="card-text listing-description">
+Current member | Senior Data Scientist
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1729174326869" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
+<a href="./my_lab_members/B_acristinafernandes/acfernandes.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./my_lab_members/B_acristinafernandes/B_acfernandes.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ana Cristina Fernandes
+</h5>
+<div class="card-text listing-description">
+Current member | PhD Student
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1729175128187" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
+<a href="./my_lab_members/C_ismailgdabamosi/ismail.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./my_lab_members/C_ismailgdabamosi/C_ismail_gbadamosi2.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ismail Gbadamosi
+</h5>
+<div class="card-text listing-description">
+External Collaborator | Researcher
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1729175018611" data-listing-reading-time-sort="1" data-listing-word-count-sort="18">
+<a href="./my_lab_members/D_catarinagferreira/cferreira.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./my_lab_members/D_catarinagferreira/D_Catarina_Ferreira_foto_bw.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Catarina Gomes Ferreira
+</h5>
+<div class="card-text listing-description">
+Former member | Master Student
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1729175008104" data-listing-reading-time-sort="1" data-listing-word-count-sort="19">
+<a href="./my_lab_members/E_martaliber/mliber.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./my_lab_members/E_martaliber/E_marta_liber_foto_bw.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Marta Liber
+</h5>
+<div class="card-text listing-description">
+Former member | Master Student
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
