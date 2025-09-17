@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Last update | June 2025\n\n\n\n\nWelcome to my webpage. \nI am a researcher using computational biology to answer biologically relevant questions. I am particularly interested in studying Cancer, but also Vertebrate embryo development, Mitochondria, and Evolution. \nHere you will find more about my Academic CV, Scientific journey, Outreach activities, and a bit about my hobbies and interests. \nI believe in Open Reproducible Science, and I am always keen on establishing new scientific collaborations. Feel free to reach out. \n\n\n\n\n\n\n Back to top"
+    "text": "Last update | September 2025\n\n\n\n\nWelcome to my webpage. \nI am a researcher using computational biology to answer biologically relevant questions. I am particularly interested in studying Cancer, but also Vertebrate embryo development, Mitochondria, and Evolution. \nHere you will find more about my Academic CV, Scientific journey, Outreach activities, and a bit about my hobbies and interests. \nI believe in Open Reproducible Science, and I am always keen on establishing new scientific collaborations. Feel free to reach out. \n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "my_hobbies.html",
@@ -44,9 +44,9 @@
   {
     "objectID": "my_classes.html",
     "href": "my_classes.html",
-    "title": "My Classes",
+    "title": "Classes",
     "section": "",
-    "text": "The following are training materials used for my classes.\n\nReproducible Data Analysis (2025)\nComputational Biology 2023 (2023)\n\n\n\n\n Back to top"
+    "text": "The following are training materials used for my classes.\n\nBioinformatics and Drug Design (2025)\nReproducible Data Analysis (2025)\nComputational Biology 2023 (2023)\n\n\n\n\n Back to top"
   },
   {
     "objectID": "my_projects.html",
@@ -65,7 +65,7 @@
   {
     "objectID": "smart.html",
     "href": "smart.html",
-    "title": "SMART",
+    "title": "Open Science",
     "section": "",
     "text": "Skills and Methods to Achieve Reproducible Theses\nCharacterization of the Practice\nThe SMART method (Skills and Methods to Achieve Reproducible Theses) is designed to ensure good scientific data management and the reproducibility of results in postgraduate theses. It addresses the need to organize thesis project data in a centralized repository, perform regular backups, create continuous progress reports, and keep detailed records of data analyses.\nObjectives and Goals\n\nEnsure scientific data organization and accessibility by storing data in a central repository.\nImplement consistent backup procedures to prevent data loss.\nPromote transparency and continuity in data analysis through detailed documentation.\nFacilitate continuous project progress evaluation via regular updates and feedback.\n\nImplementation\nSMART has been implemented in four thesis projects at UAlg using tools like Git, GitHub, R, and RMarkdown. Key actions include setting up GitHub accounts, conducting workshops, creating RMarkdown templates, and maintaining continuous documentation and progress tracking (See implementation schedule below - In portuguese only).\nStakeholder Involvement\nThe practice benefits postgraduate students and their advisors by providing a structured framework for scientific projects, improving productivity, and ensuring continuous project monitoring. It has received positive feedback from all involved parties.\nResults and Impacts\nSMART has significantly improved data organization and accessibility, increased transparency in analyses, and facilitated continuous project monitoring. It has resulted in completed theses, publications in international journals, and the development of R packages and markdown notebooks.\nSustainability and Transferability\nSMART is sustainable due to its use of free tools and promotes a culture of scientific transparency and reproducibility. It is adaptable to different research contexts and disciplines, enhancing UAlg’s academic reputation and operational efficiency.\nInnovation and Continuous Improvement\nSMART introduces a systematic approach to data management and scientific reproducibility, addressing the previously scattered and vulnerable data storage practices. It has been evaluated and improved through continuous feedback, showing positive results and enthusiastic adoption.\nContribution to Sustainable Development Goals (SDGs)\nThe practice contributes to:\n\nQuality Education (Goal 4) by enhancing technical and professional skills.\nIndustry, Innovation, and Infrastructure (Goal 9) by strengthening scientific research and technological capabilities.\n\nImplementation schedule\nPortuguese only\n\n\n\n\n Back to top"
   },
