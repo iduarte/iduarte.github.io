@@ -1,5 +1,16 @@
 [
   {
+    "listing": "/my_blog.html",
+    "items": [
+      "/my_blog/minimal_cancer_dataset/min_cancer_dataset.html",
+      "/my_blog/book_of_why/book_of_why.html",
+      "/my_blog/life/life.html",
+      "/my_blog/gene/gene.html",
+      "/my_blog/bioinformatics_is_mol_biol/bioinf_mol_biol.html",
+      "/my_blog/biodata_pt/biodata_pt.html"
+    ]
+  },
+  {
     "listing": "/my_lab.html",
     "items": [
       "/my_lab_members/A_rmagno/rmagno.html",

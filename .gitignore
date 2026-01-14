@@ -10,3 +10,5 @@ personalWebpage.Rproj
 *.qmd
 
 /.quarto/
+
+**/*.quarto_ipynb
