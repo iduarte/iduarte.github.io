@@ -1,16 +1,5 @@
 [
   {
-    "listing": "/my_blog.html",
-    "items": [
-      "/my_blog/minimal_cancer_dataset/min_cancer_dataset.html",
-      "/my_blog/book_of_why/book_of_why.html",
-      "/my_blog/life/life.html",
-      "/my_blog/gene/gene.html",
-      "/my_blog/bioinformatics_is_mol_biol/bioinf_mol_biol.html",
-      "/my_blog/biodata_pt/biodata_pt.html"
-    ]
-  },
-  {
     "listing": "/my_lab.html",
     "items": [
       "/my_lab_members/A_rmagno/rmagno.html",
@@ -18,6 +7,17 @@
       "/my_lab_members/C_ismailgdabamosi/ismail.html",
       "/my_lab_members/D_catarinagferreira/cferreira.html",
       "/my_lab_members/E_martaliber/mliber.html"
+    ]
+  },
+  {
+    "listing": "/the_bioLogical_footnote_blog.html",
+    "items": [
+      "/the_bioLogical_footnote_blog/minimal_cancer_dataset/mcd.html",
+      "/the_bioLogical_footnote_blog/book_of_why/bow.html",
+      "/the_bioLogical_footnote_blog/life/life.html",
+      "/the_bioLogical_footnote_blog/gene/gene.html",
+      "/the_bioLogical_footnote_blog/biodata_pt/bdpt.html",
+      "/the_bioLogical_footnote_blog/bioinf_is_mol_biol/bmb.html"
     ]
   }
 ]

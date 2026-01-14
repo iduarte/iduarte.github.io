@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="How to combine and share cancer data?">
+<meta name="description" content="What if science could answer why?">
 
-<title>1+Million Genomes Minimal Dataset for Cancer – Isabel Duarte</title>
+<title>The Book of Why | Judea Pearl &amp; Dana Mackenzie – Isabel Duarte</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -145,7 +145,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Outreach</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../my_blog.html"> 
+    <a class="nav-link" href="../../the_bioLogical_footnote_blog.html"> 
 <span class="menu-text">The BioLogical Footnote</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -184,15 +184,16 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">1+Million Genomes Minimal Dataset for Cancer</h1>
+      <h1 class="title">The Book of Why | Judea Pearl &amp; Dana Mackenzie</h1>
                   <div>
         <div class="description">
-          How to combine and share cancer data?
+          What if science could answer <em>why</em>?
         </div>
       </div>
                           <div class="quarto-categories">
-                <div class="quarto-category">Data</div>
-                <div class="quarto-category">Cancer</div>
+                <div class="quarto-category">Causality</div>
+                <div class="quarto-category">Biology</div>
+                <div class="quarto-category">Data analysis</div>
               </div>
                   </div>
   </div>
@@ -214,10 +215,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#tldr" id="toc-tldr" class="nav-link active" data-scroll-target="#tldr">TL;DR</a></li>
+  <li><a href="#tldr" id="toc-tldr" class="nav-link active" data-scroll-target="#tldr"><strong>TL;DR</strong></a></li>
   <li><a href="#the-full-story" id="toc-the-full-story" class="nav-link" data-scroll-target="#the-full-story">The Full Story</a></li>
   <li><a href="#the-biological-footnote" id="toc-the-biological-footnote" class="nav-link" data-scroll-target="#the-biological-footnote">The BioLogical Footnote</a></li>
-  <li><a href="#to-explore-further" id="toc-to-explore-further" class="nav-link" data-scroll-target="#to-explore-further">To Explore Further</a></li>
   </ul>
 </nav>
     </div>
@@ -228,52 +228,56 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p><img src="min_cancer_dataset.png" class="img-fluid"></p>
+<p><img src="book_of_why.jpg" class="img-fluid" style="width:50.0%"></p>
 <p><br></p>
 <section id="tldr" class="level2">
-<h2 class="anchored" data-anchor-id="tldr">TL;DR</h2>
-<p>The integration of genomic and clinical data is essential for advancing precision cancer medicine, yet establishing standardized data collection practices remains a significant challenge. This work introduces the 1+Million Genomes Minimal Dataset for Cancer, a comprehensive framework comprising 140 items across eight domains, designed to facilitate the structured collection and interoperability of cancer-related genomic and clinical information across Europe.</p>
+<h2 class="anchored" data-anchor-id="tldr"><strong>TL;DR</strong></h2>
+<p><em>The Book of Why</em> argues that data alone cannot explain the world. Judea Pearl shows why correlation is not enough, introduces a clear framework for causal reasoning, and explains how causal models let us answer the questions that matter: <em>what happens if we intervene, and what would have happened otherwise?</em> It is a call to move beyond prediction and toward genuine understanding: in science, AI, and everyday decision-making.</p>
 </section>
 <section id="the-full-story" class="level2">
 <h2 class="anchored" data-anchor-id="the-full-story">The Full Story</h2>
 <section id="the-hook" class="level4">
 <h4 class="anchored" data-anchor-id="the-hook">The Hook</h4>
-<p>Imagine a world where cancer treatment is as personalized as a tailored suit, fitting each patient’s unique genetic profile. This vision is becoming a reality with a new initiative that standardizes how we collect and share cancer data across borders.</p>
+<p>What if most of what we call “data-driven insight” is fundamentally unable to answer the questions we actually care about? In <em>The Book of Why</em>, Judea Pearl makes a provocative claim: modern data analysis excels at finding patterns, yet often fails at explaining <em>why</em> things happen. And without “why”, prediction alone is not the same as understanding.</p>
 </section>
 <section id="the-big-idea" class="level4">
 <h4 class="anchored" data-anchor-id="the-big-idea">The Big Idea</h4>
-<p>The core concept is to create a unified system for collecting cancer data, making it easier for researchers and clinicians worldwide to collaborate and develop personalized treatments, ultimately improving patient outcomes.</p>
+<p>At the heart of the book is a simple but radical message: <strong>correlation is not causation, and pretending otherwise limits science, policy, and artificial intelligence</strong>. Judea Pearl argues that we need a formal language of causation - one that allows us to reason about interventions, explanations, and counterfactuals, not just associations in data.</p>
+<p>To do this, he introduces a rigorous framework based on causal models, diagrams, and logical rules that make assumptions explicit rather than hidden.</p>
 </section>
 <section id="how-it-works" class="level4">
-<h4 class="anchored" data-anchor-id="how-it-works">How It Works</h4>
-<p>The initiative involves creating a structured dataset that organizes cancer-related information into categories like patient demographics, treatment details, and genetic data. This standardized approach ensures that data from different countries and institutions can be easily shared and analyzed, much like having a universal language that everyone can understand and use effectively.</p>
+<h4 class="anchored" data-anchor-id="how-it-works">How It Works?</h4>
+<p>A key tool in the book is the use of <strong>causal diagrams (directed acyclic graphs)</strong> - simple arrows that encode how variables influence one another. These diagrams clarify which variables should be controlled for, and which should not, something traditional statistical approaches often get wrong.</p>
+<p>Judea Pearl uses <strong>Simpson’s paradox</strong> as a recurring example: situations where a trend appears in every subgroup but reverses when the data are combined. The paradox is not a statistical oddity; it is a signal that causal structure has been ignored. Once the causal relationships are made explicit, the paradox dissolves.</p>
+<p>The book also explains why adjusting for the wrong variable, such as a <em>collider</em>, can introduce bias rather than remove it. These ideas are counterintuitive when learned through equations alone, but become immediately clear when visualised causally.</p>
 </section>
 <section id="the-plot-twist" class="level4">
 <h4 class="anchored" data-anchor-id="the-plot-twist">The Plot Twist</h4>
-<p>While many might assume that collecting cancer data is straightforward, the reality is that data privacy, varying data formats, and inconsistent collection methods have been major hurdles. This initiative tackles these challenges head-on, paving the way for more seamless data integration and collaboration.</p>
+<p>One of the most striking ideas in <em>The Book of Why</em> is the <strong>Ladder of Causation</strong>, a three-level hierarchy of reasoning:</p>
+<ol type="1">
+<li><strong>Seeing</strong> - observing correlations (“What is?”)</li>
+<li><strong>Doing</strong> - intervening (“What happens if we do X?”)</li>
+<li><strong>Imagining</strong> - counterfactuals (“What would have happened if…?”)</li>
+</ol>
+<p>Judea Pearl argues that much of modern machine learning and AI is stuck on the first rung. These systems can predict extremely well, yet fail when asked simple causal questions. A model that cannot reason about interventions or counterfactuals, he argues, is fundamentally limited, no matter how impressive its accuracy.</p>
 </section>
-<section id="why-scientists-care" class="level4">
-<h4 class="anchored" data-anchor-id="why-scientists-care">Why Scientists Care</h4>
-<p>Scientists and healthcare professionals are keenly interested in this initiative because it promises to break down barriers to data sharing, enabling more comprehensive research and the development of targeted cancer therapies. By fostering international cooperation, the dataset has the potential to accelerate discoveries and innovations in cancer treatment.</p>
+<section id="why-should-scientists-care" class="level4">
+<h4 class="anchored" data-anchor-id="why-should-scientists-care">Why Should Scientists Care?</h4>
+<p>For scientists, the book is a direct challenge to decades of methodological caution that discouraged causal language. Judea Pearl argues that avoiding words like “cause” and “effect” did not make science safer - it made it less honest about its assumptions.</p>
+<p>Causal models do not eliminate uncertainty: they <strong>expose it</strong>. By making assumptions explicit and testable, they allow disagreements to be resolved logically rather than rhetorically. From epidemiology to economics, the book shows how causal reasoning can settle questions that statistics alone could not.</p>
 </section>
 <section id="why-should-non-scientists-care" class="level4">
-<h4 class="anchored" data-anchor-id="why-should-non-scientists-care">Why should non-scientists care?</h4>
-<p>Non-scientists should care because this initiative has the potential to significantly improve cancer treatment and patient outcomes by making personalized medicine more accessible. By standardizing how cancer data is collected and shared, it enables faster and more effective research, leading to treatments that are better tailored to individual patients’ needs. This means that in the future, cancer care could be more precise, effective, and potentially less invasive, benefiting patients and their families worldwide.</p>
+<h4 class="anchored" data-anchor-id="why-should-non-scientists-care">Why Should Non-Scientists Care?</h4>
+<p>Because real-world decisions are causal by nature. When we ask whether a treatment works, a policy helps, or an action caused harm, we are not asking about correlations, we are asking <em>what would happen if we acted differently</em>.</p>
+<p><em>The Book of Why</em> equips readers with a way to think clearly about such questions. It explains why “the data says so” is often not enough, and why understanding cause and effect is essential for medicine, public policy, law, and everyday reasoning.</p>
 </section>
 </section>
 <section id="the-biological-footnote" class="level2">
 <h2 class="anchored" data-anchor-id="the-biological-footnote">The BioLogical Footnote</h2>
-<section id="the-quiet-infrastructure-question" class="level4">
-<h4 class="anchored" data-anchor-id="the-quiet-infrastructure-question">The quiet infrastructure question</h4>
-<p>Most breakthroughs in precision medicine do not fail because of a lack of algorithms or ambition. They fail because the data beneath them is fragmented, incompatible, or simply unusable. The 1+Million Genomes Minimal Dataset is not glamorous, but it is foundational. It forces us to ask a simple, uncomfortable question: are we investing enough attention in the invisible layers that make scientific progress possible? Because without shared data foundations, even the most advanced medicine remains an isolated achievement.</p>
+<p>Judea Pearl’s message is empowering: <strong>we are allowed to ask why - and we now have the tools to answer it properly</strong>.</p>
 <blockquote class="blockquote">
-<p>Behind every dataset is a patient story, often shared only once and never repeated. When data cannot travel, neither can its impact. This initiative quietly shifts the focus from isolated excellence to shared progress. And it leaves us with a thought worth sitting with: how many potential discoveries are still locked away, not because the science is lacking, but because the data cannot speak the same language?</p>
+<p>“Prediction can be impressive, but explanation is transformative.”</p>
 </blockquote>
-</section>
-</section>
-<section id="to-explore-further" class="level2">
-<h2 class="anchored" data-anchor-id="to-explore-further">To Explore Further</h2>
-<p><a href="https://doi.org/10.1038/s41588-024-01721-x">The 1+Million Genomes Minimal Dataset for Cancer</a></p>
 
 
 </section>

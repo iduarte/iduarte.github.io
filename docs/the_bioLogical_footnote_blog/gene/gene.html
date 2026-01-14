@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="The BioLogical Footnote is where science steps out of the main text and speaks for itself, in a simple logical way. This blog explores the curious mechanisms, hidden stories, and charming contradictions that live in the margins of scientific thinking. Each piece takes a small detail: a concept, a puzzle, a metaphor, a book, an article, a question, and gives it the space to wander, explain, argue, or just bring to light. It’s science outreach from the perspective of the a curious scientist: part archivist, part storyteller, part footnote that finally decided it had something important to say.">
+<meta name="description" content="Can you explain to a child what a gene is?">
 
-<title>The BioLogical Footnote – Isabel Duarte</title>
+<title>So, what is a gene? – Isabel Duarte</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,27 +24,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./pics/favicon_iduarte.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-91903e51b979062d4d184304d30a9be9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../pics/favicon_iduarte.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-91903e51b979062d4d184304d30a9be9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,65 +70,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -138,13 +78,13 @@ window.Quarto = {
 <body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Isabel Duarte</span>
     </a>
   </div>
@@ -155,7 +95,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -164,27 +104,27 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-science">    
         <li>
-    <a class="dropdown-item" href="./my_science.html">
+    <a class="dropdown-item" href="../../my_science.html">
  <span class="dropdown-text">My Science</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./my_lab.html">
+    <a class="dropdown-item" href="../../my_lab.html">
  <span class="dropdown-text">My Lab</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./my_cv.html">
+    <a class="dropdown-item" href="../../my_cv.html">
  <span class="dropdown-text">My CV</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./my_projects.html">
+    <a class="dropdown-item" href="../../my_projects.html">
  <span class="dropdown-text">My Projects</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./my_training.html">
+    <a class="dropdown-item" href="../../my_training.html">
  <span class="dropdown-text">My Training</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./smart.html">
+    <a class="dropdown-item" href="../../smart.html">
  <span class="dropdown-text">Open Science</span></a>
   </li>  
     </ul>
@@ -195,17 +135,17 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-classes">    
         <li>
-    <a class="dropdown-item" href="./my_classes.html">
+    <a class="dropdown-item" href="../../my_classes.html">
  <span class="dropdown-text">Classes</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./my_outreach.html"> 
+    <a class="nav-link" href="../../my_outreach.html"> 
 <span class="menu-text">Outreach</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./my_blog.html" aria-current="page"> 
+    <a class="nav-link" href="../../the_bioLogical_footnote_blog.html"> 
 <span class="menu-text">The BioLogical Footnote</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -214,11 +154,11 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-more">    
         <li>
-    <a class="dropdown-item" href="./my_hobbies.html">
+    <a class="dropdown-item" href="../../my_hobbies.html">
  <span class="dropdown-text">My Hobbies</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./my_contact.html">
+    <a class="dropdown-item" href="../../my_contact.html">
  <span class="dropdown-text">Contact me</span></a>
   </li>  
     </ul>
@@ -241,145 +181,129 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">So, what <em>is</em> a gene?</h1>
+                  <div>
+        <div class="description">
+          Can you explain to a child what a gene is?
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">Gene</div>
+                <div class="quarto-category">Biology</div>
+                <div class="quarto-category">Phylosophy of science</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div><div class="category" data-category="QmlvaW5mb3JtYXRpY3M=">Bioinformatics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QmlvbG9neQ==">Biology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q2FuY2Vy">Cancer <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q2F1c2FsaXR5">Causality <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGF0YQ==">Data <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGF0YSUyMGFuYWx5c2lz">Data analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGF0YSUyMG1hbmFnZW1lbnQ=">Data management <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R2VuZQ==">Gene <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TGlmZQ==">Life <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TGlmZSUyMHNjaWVuY2Vz">Life sciences <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UGh5bG9zb3BoeSUyMG9mJTIwc2NpZW5jZQ==">Phylosophy of science <span class="quarto-category-count">(2)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#tldr" id="toc-tldr" class="nav-link active" data-scroll-target="#tldr"><strong>TL;DR</strong></a></li>
+  <li><a href="#the-full-story" id="toc-the-full-story" class="nav-link" data-scroll-target="#the-full-story">The Full Story</a></li>
+  <li><a href="#the-biological-footnote" id="toc-the-biological-footnote" class="nav-link" data-scroll-target="#the-biological-footnote">The BioLogical Footnote</a></li>
+  <li><a href="#to-explore-further" id="toc-to-explore-further" class="nav-link" data-scroll-target="#to-explore-further">To Explore Further</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">The BioLogical Footnote</h1>
-<p class="subtitle lead">Bite size science explained from the margins.</p>
-</div>
-
-<div>
-  <div class="description">
-    The BioLogical Footnote is where science steps out of the main text and speaks for itself, in a simple logical way. This blog explores the curious mechanisms, hidden stories, and charming contradictions that live in the margins of scientific thinking. Each piece takes a small detail: a concept, a puzzle, a metaphor, a book, an article, a question, and gives it the space to wander, explain, argue, or just bring to light. It’s science outreach from the perspective of the a curious scientist: part archivist, part storyteller, part footnote that finally decided it had something important to say.
-  </div>
-</div>
-
-
-<div class="quarto-title-meta column-page-left">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
+<p><img src="gene_image.jpg" class="img-fluid"></p>
+<p><br></p>
+<section id="tldr" class="level2">
+<h2 class="anchored" data-anchor-id="tldr"><strong>TL;DR</strong></h2>
+<p>A gene is not a fixed thing with a single definition. It started as an abstract idea used to explain inheritance patterns, later became a stretch of DNA linked to proteins, and is now understood as a flexible, context-dependent set of genomic resources. Despite decades of new biology revealing layers of complexity - regulation, splicing, epigenetics, networks - the gene persists because it adapts. Its power lies not in being precise, but in being useful: a concept that evolves with biology itself.</p>
+</section>
+<section id="the-full-story" class="level2">
+<h2 class="anchored" data-anchor-id="the-full-story">The Full Story</h2>
+<section id="what-is-a-gene-a-concept-that-refuses-to-stand-still" class="level4">
+<h4 class="anchored" data-anchor-id="what-is-a-gene-a-concept-that-refuses-to-stand-still">What Is a Gene? A Concept That Refuses to Stand Still</h4>
+<p>At first glance, a gene seems like one of biology’s most basic building blocks: a piece of DNA that makes a trait. Yet, for more than a century, scientists and philosophers have repeatedly questioned whether the gene is a clear, stable, or even useful concept. The surprise is not that the gene has been challenged, but that it has endured.</p>
+<p>The reason lies in how scientific concepts actually work. They are not fixed definitions carved in stone. Instead, they evolve alongside scientific practices, technologies, and questions. The gene is a prime example of a “concept in flux”: its meaning has shifted many times, adapted to new discoveries, and diversified across fields, while remaining central to biology.</p>
+</section>
+<section id="from-inherited-traits-to-abstract-factors" class="level4">
+<h4 class="anchored" data-anchor-id="from-inherited-traits-to-abstract-factors">From Inherited Traits to Abstract Factors</h4>
+<p>The story begins with Gregor Mendel in the 19th century. Mendel did not set out to discover “genes” or laws of heredity. He was studying how traits behave in plant hybrids. His key innovation was methodological: focusing on individual traits, counting large numbers of offspring, and using a symbolic notation to track inheritance patterns.</p>
+<p>From this, regularities emerged - dominance, segregation, and independent assortment. Mendel spoke of “elements” or “factors” in reproductive cells, but he did not claim they were universal units of heredity, nor did he know what they were made of. The gene, at this stage, was not a thing but an inferred difference-maker.</p>
+<p>Around 1900, Mendel’s work was rediscovered and transformed into Mendelism. These regularities were now treated as general laws of heredity, and the idea took hold that inheritance depended on discrete units passed through gametes. Still, these units were theoretical placeholders, not physical objects.</p>
+</section>
+<section id="naming-the-gene-without-explaining-it" class="level4">
+<h4 class="anchored" data-anchor-id="naming-the-gene-without-explaining-it">Naming the Gene, Without Explaining It</h4>
+<p>In 1909, Wilhelm Johannsen introduced the word “gene” precisely to avoid premature assumptions. A gene, he said, was simply “something” in the gametes that makes a difference to traits. He also introduced the crucial distinction between genotype (what is inherited) and phenotype (what develops through interaction with the environment).</p>
+<p>This move was paradoxical but powerful. By stripping the gene of speculative meaning, Johannsen made it a workable scientific object. Genes could now be inferred from observable differences without committing to how they functioned or what they were made of.</p>
+</section>
+<section id="genes-on-chromosomes-not-blueprints" class="level4">
+<h4 class="anchored" data-anchor-id="genes-on-chromosomes-not-blueprints">Genes on Chromosomes, Not Blueprints</h4>
+<p>Early 20th-century genetics, especially through the work of Thomas Hunt Morgan and his group, linked genes to chromosomes. By studying fruit flies, they showed that genes are arranged linearly, can recombine, and can be mapped relative to one another.</p>
+<p>This established the “classical gene” as a material unit located on chromosomes. However, even then, genes were not seen as simple instructions for traits. One gene could affect many traits, and many genes could affect one trait. Genetic causation was about differences, not direct construction. Development remained a complex, interactive process.</p>
+</section>
+<section id="from-genes-to-molecules" class="level4">
+<h4 class="anchored" data-anchor-id="from-genes-to-molecules">From Genes to Molecules</h4>
+<p>The mid-20th century brought a major shift: the identification of DNA as the genetic material and the discovery of its double-helix structure. This solved a long-standing puzzle - how genes could copy themselves - and reframed genes as sequences of DNA.</p>
+<p>With the cracking of the genetic code, genes came to be understood as templates for proteins. This gave rise to the “classical molecular gene”: a stretch of DNA that is transcribed into RNA and translated into a protein. For a time, biology embraced a clean formula: one gene, one protein.</p>
+<p>But this clarity did not last.</p>
+</section>
+<section id="the-gene-becomes-complicated-again" class="level4">
+<h4 class="anchored" data-anchor-id="the-gene-becomes-complicated-again">The Gene Becomes Complicated Again</h4>
+<p>Molecular biology soon revealed that genes are not neat, continuous units. In eukaryotes, genes are split into exons and introns; RNA can be spliced in multiple ways; editing, overlapping transcripts, regulatory regions, and non-coding RNAs are pervasive. One DNA region can produce many different products, and one product can draw on multiple genomic regions.</p>
+<p>At the same time, gene regulation, development, and evolution revealed that DNA works within dense networks of interactions. Genes respond to cellular contexts; they do not act alone or issue fixed instructions.</p>
+</section>
+<section id="genomics-and-the-post-genomic-gene" class="level4">
+<h4 class="anchored" data-anchor-id="genomics-and-the-post-genomic-gene">Genomics and the Post-Genomic Gene</h4>
+<p>The sequencing of whole genomes intensified these challenges. Humans turned out to have far fewer protein-coding genes than expected, and much of the genome is transcribed without coding for proteins. Projects like ENCODE showed that functional genomic elements overlap extensively and defy simple boundaries.</p>
+<p>This led to the idea of a “post-genomic gene”: not a single stretch of DNA, but a set of genomic sequences that together give rise to a coherent set of functional products. In this view, genes are defined as much by what they do as by where they are.</p>
+</section>
+<section id="many-gene-concepts-one-word" class="level4">
+<h4 class="anchored" data-anchor-id="many-gene-concepts-one-word">Many Gene Concepts, One Word</h4>
+<p>Today, biology uses multiple gene concepts side by side:</p>
+<ul>
+<li><strong>Instrumental genes</strong>, used to predict inheritance patterns.</li>
+<li><strong>Molecular genes</strong>, defined by DNA sequences and products.</li>
+<li><strong>Developmental genes</strong>, understood as resources in complex processes.</li>
+<li><strong>Post-genomic genes</strong>, seen as distributed and context-dependent.</li>
+</ul>
+<p>None of these has replaced the others. Instead, the gene remains useful precisely because it is flexible. Its vagueness allows it to connect disciplines, adapt to new technologies, and support different explanatory goals.</p>
+</section>
+<section id="why-the-gene-persists" class="level4">
+<h4 class="anchored" data-anchor-id="why-the-gene-persists">Why the Gene Persists</h4>
+<p>The gene has survived not because it is simple, but because it is productive. It evolves with biology itself, absorbing new meanings without collapsing. Rather than being a fixed entity, the gene is a bridge between heredity, development, evolution, and molecular mechanisms.</p>
+</section>
+</section>
+<section id="the-biological-footnote" class="level2">
+<h2 class="anchored" data-anchor-id="the-biological-footnote">The BioLogical Footnote</h2>
+<blockquote class="blockquote">
+<p>Asking “What is a gene?” has no final answer. The gene is not a settled object, but a living concept, reshaped whenever biology learns something new about life.</p>
+</blockquote>
+</section>
+<section id="to-explore-further" class="level2">
+<h2 class="anchored" data-anchor-id="to-explore-further">To Explore Further</h2>
+<p><a href="https://plato.stanford.edu/entries/gene/">Stanford Encyclopedia of Philosophy</a></p>
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="RGF0YSUyQ0NhbmNlcg==" data-listing-file-modified-sort="1768348039847" data-listing-reading-time-sort="3" data-listing-word-count-sort="519">
-<a href="./my_blog/minimal_cancer_dataset/min_cancer_dataset.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./my_blog/minimal_cancer_dataset/min_cancer_dataset_paper3.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-1+Million Genomes Minimal Dataset for Cancer
-</h5>
-<div class="card-text listing-description delink">
-<p>How to combine and share cancer data?</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="Q2F1c2FsaXR5JTJDRGF0YSUyMGFuYWx5c2lz" data-listing-file-modified-sort="1768348209884" data-listing-reading-time-sort="4" data-listing-word-count-sort="636">
-<a href="./my_blog/book_of_why/book_of_why.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./my_blog/book_of_why/book_of_why.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-The Book of Why | Judea Pearl &amp; Dana Mackenzie
-</h5>
-<div class="card-text listing-description delink">
-<p>What if science could answer <em>why</em>?</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="TGlmZSUyQ1BoeWxvc29waHklMjBvZiUyMHNjaWVuY2U=" data-listing-file-modified-sort="1768351773764" data-listing-reading-time-sort="4" data-listing-word-count-sort="611">
-<a href="./my_blog/life/life.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./my_blog/life/life_image.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Biology is the study of life
-</h5>
-<div class="card-text listing-description delink">
-<p>But, can you objectively define <em>life</em>?</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="R2VuZSUyQ1BoeWxvc29waHklMjBvZiUyMHNjaWVuY2U=" data-listing-file-modified-sort="1768350719531" data-listing-reading-time-sort="5" data-listing-word-count-sort="989">
-<a href="./my_blog/gene/gene.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./my_blog/gene/gene_image.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-So, what <em>is</em> a gene?
-</h5>
-<div class="card-text listing-description delink">
-<p>Can you explain to a child what a gene is?</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="4" data-categories="QmlvbG9neSUyQ0Jpb2luZm9ybWF0aWNz" data-listing-file-modified-sort="1768353245335" data-listing-reading-time-sort="5" data-listing-word-count-sort="877">
-<a href="./my_blog/bioinformatics_is_mol_biol/bioinf_mol_biol.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./my_blog/bioinformatics_is_mol_biol/bioinf_mol_biol_image.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Bioinformatics is molecular biology
-</h5>
-<div class="card-text listing-description delink">
-<p>When biology became data, molecular biology learned to code.</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="5" data-categories="RGF0YSUyMG1hbmFnZW1lbnQlMkNMaWZlJTIwc2NpZW5jZXM=" data-listing-file-modified-sort="1768347723366" data-listing-reading-time-sort="2" data-listing-word-count-sort="389">
-<a href="./my_blog/biodata_pt/biodata_pt.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./my_blog/biodata_pt/logo_biodata-v_assin.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-BioData.pt
-</h5>
-<div class="card-text listing-description delink">
-<p>What is it?</p>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
