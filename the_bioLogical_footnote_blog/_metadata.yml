@@ -7,4 +7,5 @@ freeze: auto
 title-block-banner: true
 
 page-layout: article
-
+sidebar: blog
+page-navigation: true
