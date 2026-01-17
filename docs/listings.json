@@ -1,5 +1,15 @@
 [
   {
+    "listing": "/my_lab.html",
+    "items": [
+      "/my_lab_members/A_rmagno/rmagno.html",
+      "/my_lab_members/B_acristinafernandes/acfernandes.html",
+      "/my_lab_members/C_ismailgdabamosi/ismail.html",
+      "/my_lab_members/D_catarinagferreira/cferreira.html",
+      "/my_lab_members/E_martaliber/mliber.html"
+    ]
+  },
+  {
     "listing": "/the_bioLogical_footnote_blog/index.html",
     "items": [
       "/the_bioLogical_footnote_blog/biodata_pt/bdpt.html",
@@ -12,16 +22,6 @@
       "/the_bioLogical_footnote_blog/the_quest_to_cure_cancer/qcc.html",
       "/the_bioLogical_footnote_blog/reproducibility/reproducibility.html",
       "/the_bioLogical_footnote_blog/simpsons_paradox/sp.html"
-    ]
-  },
-  {
-    "listing": "/my_lab.html",
-    "items": [
-      "/my_lab_members/A_rmagno/rmagno.html",
-      "/my_lab_members/B_acristinafernandes/acfernandes.html",
-      "/my_lab_members/C_ismailgdabamosi/ismail.html",
-      "/my_lab_members/D_catarinagferreira/cferreira.html",
-      "/my_lab_members/E_martaliber/mliber.html"
     ]
   }
 ]
