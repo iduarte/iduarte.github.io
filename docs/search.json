@@ -39,7 +39,7 @@
     "href": "the_bioLogical_footnote_blog/bioinformatics_is_molecular_biology/bmb.html",
     "title": "Bioinformatics is molecular biology",
     "section": "",
-    "text": "ChatGPT image",
+    "text": "Determining which genes change expression in Alzeihmer. Universidade do Algarve, Faro, Portugal",
     "crumbs": [
       "Home",
       "The BioLogical Footnote",
@@ -100,11 +100,76 @@
     ]
   },
   {
+    "objectID": "the_bioLogical_footnote_blog/the_quest_to_cure_cancer/qcc.html",
+    "href": "the_bioLogical_footnote_blog/the_quest_to_cure_cancer/qcc.html",
+    "title": "The Quest to Cure Cancer",
+    "section": "",
+    "text": "ChatGPT image",
+    "crumbs": [
+      "Home",
+      "The BioLogical Footnote",
+      "The Quest to Cure Cancer",
+      "The Quest to Cure Cancer"
+    ]
+  },
+  {
+    "objectID": "the_bioLogical_footnote_blog/the_quest_to_cure_cancer/qcc.html#tldr",
+    "href": "the_bioLogical_footnote_blog/the_quest_to_cure_cancer/qcc.html#tldr",
+    "title": "The Quest to Cure Cancer",
+    "section": "TL;DR",
+    "text": "TL;DR\nCan cancer be cured? Not as a single disease with a single solution. Cancer is many diseases, linked by shared biological rules. There is no universal cure because cancer evolves, spreads, and hides within our own biology. But the quest to cure cancer is real and advancing: immunotherapy, precision medicine, engineered cells, early detection, and smarter treatment combinations are steadily turning many cancers from fatal into curable or controllable diseases. Hope today is not hype, it is cumulative, evidence-based, and grounded in how cancer actually works.",
+    "crumbs": [
+      "Home",
+      "The BioLogical Footnote",
+      "The Quest to Cure Cancer",
+      "The Quest to Cure Cancer"
+    ]
+  },
+  {
+    "objectID": "the_bioLogical_footnote_blog/the_quest_to_cure_cancer/qcc.html#the-full-story",
+    "href": "the_bioLogical_footnote_blog/the_quest_to_cure_cancer/qcc.html#the-full-story",
+    "title": "The Quest to Cure Cancer",
+    "section": "The Full Story",
+    "text": "The Full Story\n“Cancer” is a single word that hides an uncomfortable truth: it refers to hundreds of different diseases.\nWe use the same label for a childhood leukemia, a melanoma caused by sun exposure, and a lung tumour driven by decades of smoking. This linguistic convenience is useful in everyday conversation, but scientifically it can be misleading. Much of the frustration around cancer - including the recurring question “Why haven’t we cured it yet?” - comes from taking that word too literally.\nTo understand where we stand today, it helps to unpack what we really mean when we talk about cancer.\n\nCancer: Not one disease, but many\nCancer is not a single entity in the way tuberculosis or measles are. It is a broad category defined less by cause than by outcome: cells that grow when they should not, refuse to stop, and sometimes spread.\nA breast cancer and a pancreatic cancer arise in different tissues, accumulate different mutations, interact with different microenvironments, and respond to different treatments. Even two tumours from the same organ can behave like entirely different diseases once you look at their molecular profiles.\nThis is not a minor detail. It is the central reason why there is no single “cure for cancer”. Expecting one universal solution is like expecting the same drug to cure asthma, diabetes, and Alzheimer’s disease - simply because they all affect humans.\nAnd yet, calling cancer only a collection of unrelated diseases is also unsatisfying.\n\n\nWhat all cancers have in common\nDespite their diversity, cancers do share something fundamental: they are diseases of broken cellular control.\nEvery cancer begins when normal cells accumulate genetic and epigenetic changes that allow them to ignore the rules governing growth, death, and cooperation within tissues. In that sense, cancer is not foreign - it is our own biology pushed into a pathological regime.\nThis tension - deep diversity built on shared principles - motivated one of the most influential ideas in modern cancer biology: the hallmarks of cancer.\n\n\nThe hallmarks: unity beneath diversity\nIn 2000, Douglas Hanahan and Robert Weinberg proposed that all cancers, regardless of tissue or origin, acquire a common set of capabilities during their evolution. These include:\n\nSustaining their own growth signals\nIgnoring growth-inhibitory cues\nResisting cell death\nDividing indefinitely\nRecruiting blood vessels\nInvading and spreading to other tissues\n\nLater additions included immune evasion, altered metabolism, genomic instability, and tumour-promoting inflammation.\nThe power of the hallmarks framework is not that it erases differences between cancers, but that it gives us a shared language. It explains how wildly different tumours can still converge on the same functional solutions: grow faster, survive longer, spread further.\nFrom a research perspective, this matters enormously. It means we can design therapies that target capabilities rather than individual mutations - a partial unification in an otherwise fragmented landscape.\n\n\nSo why haven’t we cured cancer?\nThere is no single reason - but several recurring ones.\nFirst, cancer is not static. Tumours evolve. They are genetically heterogeneous, and treatment itself applies selective pressure. Kill the sensitive cells, and resistant ones may survive and expand. This is evolution in real time, inside the body.\nSecond, the most dangerous feature of cancer is metastasis. Once cancer spreads, eliminating every last malignant cell becomes extraordinarily difficult. A handful of surviving cells can be enough for relapse.\nThird, cancer cells are not invaders - they are altered versions of ourselves. This makes them hard to target without damaging healthy tissue. There is a narrow margin between effective treatment and unacceptable toxicity.\nFinally, cancers actively hide. They suppress immune responses, remodel their environment, and co-opt normal cells to support their survival. They are not passive targets.\nSeen this way, the absence of a universal cure is not a failure of effort or intelligence. It is a reflection of the problem’s depth.\n\n\nWhere hope genuinely lies\nDespite this complexity, progress has been real - and in some cases, transformative, and what gives reason for hope today is not a single breakthrough, but a convergence of advances that are finally changing the rules of the game.\nOne of the most profound shifts has come from immunotherapy. Rather than attacking cancer directly, checkpoint inhibitors remove the molecular brakes that tumours use to suppress immune responses. In some patients, this leads to long-lasting remissions, even in advanced disease. CAR T-cell therapies go a step further by genetically reprogramming a patient’s own immune cells to recognise cancer. In certain blood cancers, this has produced outcomes that are effectively cures. While these approaches do not yet work for everyone, they have demonstrated something crucial: the immune system can eliminate cancer if it is allowed to function properly.\nAt the same time, precision medicine has transformed how we think about treatment. As tumour sequencing became routine, it became clear that many cancers are driven by specific molecular alterations. Targeted therapies designed against these drivers have turned some previously fatal cancers into manageable (and sometimes curable) diseases. Resistance remains a challenge, but each success reinforces a central lesson: deep biological understanding creates real therapeutic leverage.\nAnother important frontier is cell-based and gene-edited therapies. Beyond CAR T-cells, researchers are engineering immune cells to be more persistent, more precise, and less easily suppressed by tumours. Early clinical trials using CRISPR-edited immune cells show that it is possible to safely reprogram biology itself, shifting cancer treatment from passive drug delivery to active biological intervention.\nProgress is also coming from prevention and early detection. Vaccines against cancer-causing viruses have already reduced cancer incidence, and emerging technologies such as liquid biopsies aim to detect tumours before they become clinically apparent. In cancer, timing often determines curability.\nFinally, there is growing recognition that cancer must be treated as an evolving system. Combination therapies are increasingly designed to block multiple escape routes at once, reducing the chance of resistance. This approach reflects a more mature view of cancer biology: not as a single target, but as a dynamic process that must be outpaced rather than simply attacked.\nThere will be no single cure for cancer. But many cancers are already becoming curable, others controllable, and fewer inevitably fatal. Hope today is not speculative. It is incremental, evidence-based, and cumulative, and for the first time, it is moving faster than the disease itself.\n\n\nRethinking what “curing cancer” means\nPerhaps the most important shift is conceptual.\nThe goal is no longer a mythical single cure for “cancer”. Instead, it is a future where:\n\nMany cancers are cured outright\nOthers are controlled long-term\nDiagnosis happens earlier\nTreatment is precise rather than blunt\n\nCancer will not disappear as a biological possibility - it is too deeply tied to multicellular life and evolution. But its capacity to devastate lives can, and increasingly does, diminish.\nUnderstanding cancer as many diseases with shared logic does not weaken hope. It grounds it.\nAnd in science, grounded hope is the kind that tends to work.",
+    "crumbs": [
+      "Home",
+      "The BioLogical Footnote",
+      "The Quest to Cure Cancer",
+      "The Quest to Cure Cancer"
+    ]
+  },
+  {
+    "objectID": "the_bioLogical_footnote_blog/the_quest_to_cure_cancer/qcc.html#the-biological-footnote",
+    "href": "the_bioLogical_footnote_blog/the_quest_to_cure_cancer/qcc.html#the-biological-footnote",
+    "title": "The Quest to Cure Cancer",
+    "section": "The BioLogical Footnote",
+    "text": "The BioLogical Footnote\nI am a cancer researcher, and like many others, I have learned to avoid saying out loud that I want to cure cancer. It sounds naïve, unprofessional, even embarrassing, as if ambition itself were a flaw. We are trained to be bold in private and cautious in public, to write visionary proposals carefully wrapped in incremental language, to promise impact while minimising risk. This creates a quiet cognitive dissonance: we are asked to imagine radically better futures, but rewarded for proposing only what feels safe. In that tension, it is easy to lose a sense of agency over one’s own scientific trajectory, as if progress depended less on ideas than on which version of boldness a reviewer happens to prefer. And yet, when I strip away the jargon and the defensive phrasing, what remains is simple. I study cancer. And what I am really doing (even if imperfectly, even if indirectly) is looking for ways to cure it. Perhaps that is a dream. But science has always advanced by people who were willing to take difficult problems seriously, even when certainty was impossible. If curing cancer is not a single destination but a long, collective process, then aiming for it is not naïve. It is honest.\nSorry for the personal detour…",
+    "crumbs": [
+      "Home",
+      "The BioLogical Footnote",
+      "The Quest to Cure Cancer",
+      "The Quest to Cure Cancer"
+    ]
+  },
+  {
+    "objectID": "the_bioLogical_footnote_blog/the_quest_to_cure_cancer/qcc.html#to-explore-further",
+    "href": "the_bioLogical_footnote_blog/the_quest_to_cure_cancer/qcc.html#to-explore-further",
+    "title": "The Quest to Cure Cancer",
+    "section": "To Explore Further",
+    "text": "To Explore Further\nHallmarks of Cancer | Hanahan & Weinberg (Cell, 2000)\nHallmarks of Cancer: The Next Generation | Hanahan & Weinberg (Cell, 2011)\nNational Cancer Institute: What Is Cancer?\nNational Cancer Institute: Cancer Research Progress\nCancer Research UK: Why Cancer Is Not One Disease\nWorld Health Organization: Cancer | Key Facts\nCancer Research Institute: What Is Cancer Immunotherapy?\nCancer Research Institute: CAR T-Cell Therapy Explained\nNature Reviews Cancer: Precision Oncology\nNature Reviews Cancer: Tumour Heterogeneity\nNature Reviews Cancer: Cancer Evolution and Resistance\nNature Reviews Clinical Oncology: Combination Cancer Therapies\nNIH: CRISPR and Gene Editing in Cancer Therapy\nNature Medicine: CRISPR-Edited T Cells in Cancer Patients\nNational Cancer Institute: Targeted Cancer Therapies\nNational Cancer Institute: Cancer Vaccines\nNature Reviews Cancer: Liquid Biopsies",
+    "crumbs": [
+      "Home",
+      "The BioLogical Footnote",
+      "The Quest to Cure Cancer",
+      "The Quest to Cure Cancer"
+    ]
+  },
+  {
     "objectID": "the_bioLogical_footnote_blog/information_in_biology/iib.html",
     "href": "the_bioLogical_footnote_blog/information_in_biology/iib.html",
     "title": "Biology isn’t physics… Nor chemistry!",
     "section": "",
-    "text": "ChatGPT image",
+    "text": "Information in the form of directional signs. Açores, Portugal",
     "crumbs": [
       "Home",
       "The BioLogical Footnote",
@@ -169,99 +234,76 @@
     "href": "the_bioLogical_footnote_blog/index.html",
     "title": "The BioLogical Footnote",
     "section": "",
-    "text": "BioData.pt\n\n\nWhat is it?\n\n\n\n\n\n\n\n\n\n\n\n\nBioinformatics is molecular biology\n\n\nWhen biology became data, molecular biology learned to code.\n\n\n\n\n\n\n\n\n\n\n\n\nThe Book of Why | Judea Pearl & Dana Mackenzie\n\n\nWhat if science could answer why?\n\n\n\n\n\n\n\n\n\n\n\n\nSo, what is a gene?\n\n\nCan you explain to a child what a gene is?\n\n\n\n\n\n\n\n\n\n\n\n\nBiology isn’t physics… Nor chemistry!\n\n\nInformation: The one concept every biologist needs to know.\n\n\n\n\n\n\n\n\n\n\n\n\nHas life been objectively defined? No!\n\n\nSo, what are biologists studying?\n\n\n\n\n\n\n\n\n\n\n\n\n1+Million Genomes Minimal Dataset for Cancer\n\n\nHow to combine and share cancer data?\n\n\n\n\n\nNo matching items\n Back to top",
+    "text": "BioData.pt\n\n\nWhat is it?\n\n\n\n\n\n\n\n\n\n\n\n\nBioinformatics is molecular biology\n\n\nWhen biology became data, molecular biology learned to code.\n\n\n\n\n\n\n\n\n\n\n\n\nThe Book of Why | Judea Pearl & Dana Mackenzie\n\n\nWhat if science could answer why?\n\n\n\n\n\n\n\n\n\n\n\n\nSo, what is a gene?\n\n\nCan you explain to a child what a gene is?\n\n\n\n\n\n\n\n\n\n\n\n\nBiology isn’t physics… Nor chemistry!\n\n\nInformation: The one concept every biologist needs to know.\n\n\n\n\n\n\n\n\n\n\n\n\nHas life been objectively defined? No!\n\n\nSo, what are biologists studying?\n\n\n\n\n\n\n\n\n\n\n\n\n1+Million Genomes Minimal Dataset for Cancer\n\n\nHow to combine and share cancer data?\n\n\n\n\n\n\n\n\n\n\n\n\nThe Quest to Cure Cancer\n\n\nCan cancer be cured?\n\n\n\n\n\n\n\n\n\n\n\n\nThe Reproducibility Crisis\n\n\nWhat is it, and why should you care?\n\n\n\n\n\n\n\n\n\n\n\n\nWhen the Numbers Lie\n\n\nSimpson’s Paradox and the Hidden Structure of Data\n\n\n\n\n\nNo matching items\n Back to top",
     "crumbs": [
       "Home",
       "The BioLogical Footnote"
     ]
   },
   {
-    "objectID": "the_bioLogical_footnote_blog/book_of_why/bow.html#tldr",
-    "href": "the_bioLogical_footnote_blog/book_of_why/bow.html#tldr",
-    "title": "The Book of Why | Judea Pearl & Dana Mackenzie",
+    "objectID": "the_bioLogical_footnote_blog/reproducibility/reproducibility.html",
+    "href": "the_bioLogical_footnote_blog/reproducibility/reproducibility.html",
+    "title": "The Reproducibility Crisis",
+    "section": "",
+    "text": "ChatGPT image",
+    "crumbs": [
+      "Home",
+      "The BioLogical Footnote",
+      "Reproducibility",
+      "The Reproducibility Crisis"
+    ]
+  },
+  {
+    "objectID": "the_bioLogical_footnote_blog/reproducibility/reproducibility.html#tldr",
+    "href": "the_bioLogical_footnote_blog/reproducibility/reproducibility.html#tldr",
+    "title": "The Reproducibility Crisis",
     "section": "TL;DR",
-    "text": "TL;DR\nThe Book of Why argues that data alone cannot explain the world. Judea Pearl shows why correlation is not enough, introduces a clear framework for causal reasoning, and explains how causal models let us answer the questions that matter: what happens if we intervene, and what would have happened otherwise? It is a call to move beyond prediction and toward genuine understanding: in science, AI, and everyday decision-making.",
+    "text": "TL;DR\nReproducibility is the idea that scientific results should still hold when others repeat the same analysis or experiment. Over the past decade, many large replication efforts showed that a substantial fraction of published findings do not reproduce, especially in the life and social sciences. This is mostly not about fraud, but about incentives: journals reward novelty and “positive” results, replication is rarely published, methods and data are often incomplete, and statistics are pushed too hard under pressure to publish. The result is a literature that looks more certain than it really is. Open science emerged as a response, promoting transparency, pre-registration, data and code sharing, and new publishing models. Reproducibility matters because it is how science earns credibility: not by never being wrong, but by making it easier to find out when it is.",
     "crumbs": [
       "Home",
       "The BioLogical Footnote",
-      "Book of Why",
-      "The Book of Why | Judea Pearl & Dana Mackenzie"
+      "Reproducibility",
+      "The Reproducibility Crisis"
     ]
   },
   {
-    "objectID": "the_bioLogical_footnote_blog/book_of_why/bow.html#the-full-story",
-    "href": "the_bioLogical_footnote_blog/book_of_why/bow.html#the-full-story",
-    "title": "The Book of Why | Judea Pearl & Dana Mackenzie",
+    "objectID": "the_bioLogical_footnote_blog/reproducibility/reproducibility.html#the-full-story",
+    "href": "the_bioLogical_footnote_blog/reproducibility/reproducibility.html#the-full-story",
+    "title": "The Reproducibility Crisis",
     "section": "The Full Story",
-    "text": "The Full Story\n\nThe Hook\nWhat if most of what we call “data-driven insight” is fundamentally unable to answer the questions we actually care about? In The Book of Why, Judea Pearl makes a provocative claim: modern data analysis excels at finding patterns, yet often fails at explaining why things happen. And without “why”, prediction alone is not the same as understanding.\n\n\nThe Big Idea\nAt the heart of the book is a simple but radical message: correlation is not causation, and pretending otherwise limits science, policy, and artificial intelligence. Judea Pearl argues that we need a formal language of causation - one that allows us to reason about interventions, explanations, and counterfactuals, not just associations in data.\nTo do this, he introduces a rigorous framework based on causal models, diagrams, and logical rules that make assumptions explicit rather than hidden.\n\n\nHow It Works?\nA key tool in the book is the use of causal diagrams (directed acyclic graphs) - simple arrows that encode how variables influence one another. These diagrams clarify which variables should be controlled for, and which should not, something traditional statistical approaches often get wrong.\nJudea Pearl uses Simpson’s paradox as a recurring example: situations where a trend appears in every subgroup but reverses when the data are combined. The paradox is not a statistical oddity; it is a signal that causal structure has been ignored. Once the causal relationships are made explicit, the paradox dissolves.\nThe book also explains why adjusting for the wrong variable, such as a collider, can introduce bias rather than remove it. These ideas are counterintuitive when learned through equations alone, but become immediately clear when visualised causally.\n\n\nThe Plot Twist\nOne of the most striking ideas in The Book of Why is the Ladder of Causation, a three-level hierarchy of reasoning:\n\nSeeing - observing correlations (“What is?”)\nDoing - intervening (“What happens if we do X?”)\nImagining - counterfactuals (“What would have happened if…?”)\n\nJudea Pearl argues that much of modern machine learning and AI is stuck on the first rung. These systems can predict extremely well, yet fail when asked simple causal questions. A model that cannot reason about interventions or counterfactuals, he argues, is fundamentally limited, no matter how impressive its accuracy.\n\n\nWhy Should Scientists Care?\nFor scientists, the book is a direct challenge to decades of methodological caution that discouraged causal language. Judea Pearl argues that avoiding words like “cause” and “effect” did not make science safer - it made it less honest about its assumptions.\nCausal models do not eliminate uncertainty: they expose it. By making assumptions explicit and testable, they allow disagreements to be resolved logically rather than rhetorically. From epidemiology to economics, the book shows how causal reasoning can settle questions that statistics alone could not.\n\n\nWhy Should Non-Scientists Care?\nBecause real-world decisions are causal by nature. When we ask whether a treatment works, a policy helps, or an action caused harm, we are not asking about correlations, we are asking what would happen if we acted differently.\nThe Book of Why equips readers with a way to think clearly about such questions. It explains why “the data says so” is often not enough, and why understanding cause and effect is essential for medicine, public policy, law, and everyday reasoning.",
+    "text": "The Full Story\n\nThe Metaphor\nImagine a recipe that only works for the original chef. Others follow the same steps, use similar ingredients, and still get a different dish. At some point, you stop trusting the recipe: not because the chef was dishonest, but because something important was never written down, tested properly, or was tuned just enough to work exactly once.\nThat, in essence, is the reproducibility problem in science.\n\n\nThe Real Issue\nOver the past decade, science has been forced to look at itself in the mirror. What it saw was uncomfortable: many published results could not be reproduced when other researchers tried to repeat them. This situation became widely known as the “reproducibility crisis” - or, more optimistically, what some now call a “credibility revolution.”\nBut what does reproducibility actually mean? Why does it matter beyond academic debates? And what is science doing about it?\nLet’s explore this.\n\n\nReproducibility in Simple Terms\nAt its core, reproducibility asks a very basic question:\n\nIf someone else follows the same steps, do they get the same result?\n\nIn practice, this can mean different things depending on the field:\n\nComputational reproducibility: Can others rerun the same data and code and obtain the same numbers?\nExperimental replication: Can others redo the experiment - collect new data - and still observe the same effect?\nConceptual replication:Does the underlying idea or hypothesis still hold when tested under different conditions, with different methods, or in different contexts?\n\nA study can be perfectly reproducible in terms of code and methods, yet still fail to reproduce its original findings. This distinction turns out to be crucial.\n\n\nWhy the “Crisis” Emerged\nLarge, coordinated efforts to replicate published studies revealed an uncomfortable pattern:\n\nMany results, especially in psychology, medicine, and biology, failed to replicate.\nReplication studies themselves were rarely published.\nJournals strongly favoured novel, positive, statistically significant results.\nMethods and data were often poorly reported or unavailable.\n\nOne famous psychology project found that only around 40% of results replicated successfully. In some biomedical research, reproducibility rates were even lower - sometimes close to 10–20%.\nThis is not because most scientists are dishonest. Instead, it reflects how science has been incentivised.\n\n\nThe Hidden Machinery Behind Irreproducible Science\nSeveral systemic issues fuel irreproducibility:\n\n1. Publication Bias\nStudies that “work” get published. Studies that don’t often disappear into a drawer. This distorts the scientific record.\n\n\n2. Low Statistical Power\nMany studies are too small to reliably detect real effects - yet still report strong conclusions.\n\n\n3. Questionable Research Practices\nUnder pressure to publish, researchers may:\n\nTry multiple analyses and report only the successful ones (“p-hacking”)\nDrop inconvenient data points\nPresent unexpected findings as if they were predicted all along (“HARKing”)\n\nSurveys suggest that a large fraction of researchers admit to using such practices at least once.\n\n\n4. Over-reliance on p-values\nThe obsession with crossing an arbitrary threshold (usually p &lt; 0.05) encourages binary thinking: significant or not, publishable or not, even when the evidence is weak.\n\n\n\nIs Replication Always the Final Judge?\nPhilosophically, replication is more subtle than it first appears.\nWhen a replication fails, two interpretations are possible:\n\nThe original result was wrong.\nThe replication was not done “properly”.\n\nThis creates what philosophers call the experimenters’ regress: to judge whether a replication is valid, you already need agreement about what counts as a correct experiment.\nDespite this, replication still matters - not because any single attempt is decisive, but because patterns across many attempts gradually shift our confidence. Even repeated failures, none of them conclusive on their own, can collectively erode belief in a claim.\n\n\nA Turning Point: The Rise of Meta-Science\nOut of the crisis emerged a new field: meta-science, the scientific study of science itself.\nMeta-scientists:\n\nRun large-scale replication projects\nMeasure publication bias\nStudy how incentives shape behaviour\nTest interventions to improve transparency\n\nTheir findings made one thing clear: science’s problems are structural, not moral.\n\n\nThe Open Science Response\nIn response, the open science movement has pushed for practical reforms:\n\nPre-registration: stating hypotheses and analysis plans before seeing the data\nData and code sharing\nRegistered Reports, where studies are accepted before results are known\nClearer reporting standards\nNew incentives, such as open science badges\n\nThese changes aim to realign scientific practice with its core goal: getting closer to the truth, not just producing eye-catching results.\n\n\nValues Matter More Than We Admit\nAt heart, the reproducibility debate is about values.\nScience officially values:\n\nAccuracy\nTransparency\nSkepticism\nShared knowledge\n\nBut in practice, it often rewards:\n\nNovelty\nSpeed\nPrestige\nPositive results\n\nOpen science is not about mistrust. As its advocates put it:\n\nOpenness is not needed because scientists are untrustworthy - it is needed because scientists are human.\n\nBy changing incentives, science can better support the values it already claims to uphold.\n\n\nWhy Should Non-Scientists Care?\nReproducibility is not an abstract academic concern.\nIt affects:\n\nWhich medical treatments are developed\nWhich policies are justified by evidence\nWhich findings enter textbooks and public discourse\n\nWhen results cannot be trusted, society pays the price: financially, medically, and intellectually.\nThe reproducibility debate is therefore not a sign of science failing. It is a sign of science taking responsibility for its own foundations.\nAnd that is something worth caring about.",
     "crumbs": [
       "Home",
       "The BioLogical Footnote",
-      "Book of Why",
-      "The Book of Why | Judea Pearl & Dana Mackenzie"
+      "Reproducibility",
+      "The Reproducibility Crisis"
     ]
   },
   {
-    "objectID": "the_bioLogical_footnote_blog/book_of_why/bow.html#the-biological-footnote",
-    "href": "the_bioLogical_footnote_blog/book_of_why/bow.html#the-biological-footnote",
-    "title": "The Book of Why | Judea Pearl & Dana Mackenzie",
+    "objectID": "the_bioLogical_footnote_blog/reproducibility/reproducibility.html#the-biological-footnote",
+    "href": "the_bioLogical_footnote_blog/reproducibility/reproducibility.html#the-biological-footnote",
+    "title": "The Reproducibility Crisis",
     "section": "The BioLogical Footnote",
-    "text": "The BioLogical Footnote\nJudea Pearl’s message is empowering: we are allowed to ask why - and we now have the tools to answer it properly.\n\n“Prediction can be impressive, but explanation is transformative.”",
+    "text": "The BioLogical Footnote\n\nPerhaps the most uncomfortable implication of the reproducibility debate is that it forces us to admit that many scientific results were never meant to be durable. They were optimised for being publishable, not for being true. Seen this way, the debate raises a quiet but radical question: are scientific results events, or are they commitments? An event happens once and is remembered; a commitment must withstand being revisited, questioned, and tested by others. Reproducibility is therefore not just a technical standard or a methodological fix. It is a redefinition of what we expect scientific knowledge to be: less spectacular, slower to accumulate, but build to last.",
     "crumbs": [
       "Home",
       "The BioLogical Footnote",
-      "Book of Why",
-      "The Book of Why | Judea Pearl & Dana Mackenzie"
+      "Reproducibility",
+      "The Reproducibility Crisis"
     ]
   },
   {
-    "objectID": "my_science.html",
-    "href": "my_science.html",
-    "title": "My Science",
-    "section": "",
-    "text": "I am a full time scientist, and curiosity is my main driver. I am passionate about Open Science and I am always keen on establishing new collaborations.\nAcademic Resume | I have a PhD in Medical Sciences from the Radboud Universiteit (Nijmengen, The Netherlands); a Masters degree in Oncology by ICBAS - Universidade do Porto (Portugal); and a Bachelor degree in Applied Biology by Universidade do Minho Braga (Portugal). I have published over 27 articles in international journals, developed several RData packages as well as other software tools for the biomedical research community.\nWork | I use Computational Biology/Bioinformatics as a way of answering biologically relevant questions. I have used OMICs datasets to study the genetic regulation of cancer, early vertebrate embryo development, stem cell differentiation, and mitochondrial evolution.\nInterests | My research interests are focused on understanding how gene expression profiles translate into robust genetic modules that explain the phenotypic plasticity observed in healthy and diseased cells, particularly in cancer. Such knowledge holds the promise to better explain the molecular mechanisms underlying cancer biology.\n\n\nCACAU Project | Cancer causality for precision oncology\n\n\n\n\nDEvoCancer Project | Differential Allelic Expression in Breast Cancer mutations\n\n\n\n\nClockOME Project | microRNA regulation of the vertebrate embryo molecular clock\n\n\n\n\nSPLICE Project | Alternative splicing in cardiomyogenesis\n\n\n\n\nMy PhD Project | The alternative evolutionary fates of mitochondrial proteins\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "my_lab.html",
-    "href": "my_lab.html",
-    "title": "My Lab",
-    "section": "",
-    "text": "Ramiro Magno\n\n\nCurrent member | Senior Data Scientist\n\n\n\n\n\n\n\n\n\n\n\n\nAna Cristina Fernandes\n\n\nCurrent member | PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\nIsmail Gbadamosi\n\n\nExternal Collaborator | Researcher\n\n\n\n\n\n\n\n\n\n\n\n\nCatarina Gomes Ferreira\n\n\nFormer member | Master Student\n\n\n\n\n\n\n\n\n\n\n\n\nMarta Liber\n\n\nFormer member | Master Student\n\n\n\n\n\nNo matching items\n Back to top"
-  },
-  {
-    "objectID": "smart.html",
-    "href": "smart.html",
-    "title": "Open Science",
-    "section": "",
-    "text": "Skills and Methods to Achieve Reproducible Theses\nCharacterization of the Practice\nThe SMART method (Skills and Methods to Achieve Reproducible Theses) is designed to ensure good scientific data management and the reproducibility of results in postgraduate theses. It addresses the need to organize thesis project data in a centralized repository, perform regular backups, create continuous progress reports, and keep detailed records of data analyses.\nObjectives and Goals\n\nEnsure scientific data organization and accessibility by storing data in a central repository.\nImplement consistent backup procedures to prevent data loss.\nPromote transparency and continuity in data analysis through detailed documentation.\nFacilitate continuous project progress evaluation via regular updates and feedback.\n\nImplementation\nSMART has been implemented in four thesis projects at UAlg using tools like Git, GitHub, R, and RMarkdown. Key actions include setting up GitHub accounts, conducting workshops, creating RMarkdown templates, and maintaining continuous documentation and progress tracking (See implementation schedule below - In portuguese only).\nStakeholder Involvement\nThe practice benefits postgraduate students and their advisors by providing a structured framework for scientific projects, improving productivity, and ensuring continuous project monitoring. It has received positive feedback from all involved parties.\nResults and Impacts\nSMART has significantly improved data organization and accessibility, increased transparency in analyses, and facilitated continuous project monitoring. It has resulted in completed theses, publications in international journals, and the development of R packages and markdown notebooks.\nSustainability and Transferability\nSMART is sustainable due to its use of free tools and promotes a culture of scientific transparency and reproducibility. It is adaptable to different research contexts and disciplines, enhancing UAlg’s academic reputation and operational efficiency.\nInnovation and Continuous Improvement\nSMART introduces a systematic approach to data management and scientific reproducibility, addressing the previously scattered and vulnerable data storage practices. It has been evaluated and improved through continuous feedback, showing positive results and enthusiastic adoption.\nContribution to Sustainable Development Goals (SDGs)\nThe practice contributes to:\n\nQuality Education (Goal 4) by enhancing technical and professional skills.\nIndustry, Innovation, and Infrastructure (Goal 9) by strengthening scientific research and technological capabilities.\n\nImplementation schedule\nPortuguese only\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "my_contact.html",
-    "href": "my_contact.html",
-    "title": "Contact me",
-    "section": "",
-    "text": "I am always keen on establishing new collaborations.\nReach out to ask about my science, suggest collaborations, or just to say hi!\n\nLoading…\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "my_projects.html",
-    "href": "my_projects.html",
-    "title": "My Projects",
-    "section": "",
-    "text": "My current projects are:\n\nCaCau | Cancer Causality\nMitoProfiles | Mitochondrial proteome expression profiles\n\n\nCurrent funding\n\n2022-2028\nFCT Individual Fellowship\n2021.00238.CEECIND\n2025-26\nFCT Advanced Computational Resources Grant\n2024.07901.CPCA.A2\n2024-25\nFCT Advanced Computational Resources Grant\n2023.10973.CPCA\n\n\nPast funding\n\n2024\nFCT Advanced Computational Resources Grant\n2023.09536.CPCA.A1\n2023\nFCT Advanced Computational Resources Grant\n2022.46814.CPCA.A0\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "my_classes.html",
-    "href": "my_classes.html",
-    "title": "Classes",
-    "section": "",
-    "text": "The following are training materials used for my classes.\n\nBioinformatics and Drug Design (2025)\nReproducible Data Analysis (2025)\nComputational Biology 2023 (2023)\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "my_hobbies.html",
-    "href": "my_hobbies.html",
-    "title": "My Hobbies",
-    "section": "",
-    "text": "I love to read, to play ukulele, to think, to learn and to teach, to discuss new ideas, and to engage in outdoors activities with my friends. I love the sun!\nI regularly organize get-together evenings of relaxed friendly discussions, and board game nights, over tea and cookies or homemade cake.\nI love animals (except for spiders… I hate spiders!). I like music, cinema, books, writing, sewing, digital painting, puzzles, science toys and gadgets, and everything pink. I like nonsense humor, chocolate and tea. I am sociable and always keen on tackling new challenges.\nOthers describe me as creative, curious, upbeat and reliable. I see myself as transparent.\n\n\n\n\n\n Back to top"
+    "objectID": "the_bioLogical_footnote_blog/reproducibility/reproducibility.html#to-explore-further",
+    "href": "the_bioLogical_footnote_blog/reproducibility/reproducibility.html#to-explore-further",
+    "title": "The Reproducibility Crisis",
+    "section": "To Explore Further",
+    "text": "To Explore Further\nReproducibility of Scientific Results | Stanford Encyclopedia of Philosophy",
+    "crumbs": [
+      "Home",
+      "The BioLogical Footnote",
+      "Reproducibility",
+      "The Reproducibility Crisis"
+    ]
   },
   {
     "objectID": "the_bioLogical_footnote_blog/minimal_cancer_dataset/mcd.html#tldr",
@@ -316,11 +358,99 @@
     ]
   },
   {
+    "objectID": "my_hobbies.html",
+    "href": "my_hobbies.html",
+    "title": "My Hobbies",
+    "section": "",
+    "text": "I love to read, to play ukulele, to think, to learn and to teach, to discuss new ideas, and to engage in outdoors activities with my friends. I love the sun!\nI regularly organize get-together evenings of relaxed friendly discussions, and board game nights, over tea and cookies or homemade cake.\nI love animals (except for spiders… I hate spiders!). I like music, cinema, books, writing, sewing, digital painting, puzzles, science toys and gadgets, and everything pink. I like nonsense humor, chocolate and tea. I am sociable and always keen on tackling new challenges.\nOthers describe me as creative, curious, upbeat and reliable. I see myself as transparent.\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "my_classes.html",
+    "href": "my_classes.html",
+    "title": "Classes",
+    "section": "",
+    "text": "The following are training materials used for my classes.\n\nBioinformatics and Drug Design (2025)\nReproducible Data Analysis (2025)\nComputational Biology 2023 (2023)\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "my_projects.html",
+    "href": "my_projects.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "My current projects are:\n\nCaCau | Cancer Causality\nMitoProfiles | Mitochondrial proteome expression profiles\n\n\nCurrent funding\n\n2022-2028\nFCT Individual Fellowship\n2021.00238.CEECIND\n2025-26\nFCT Advanced Computational Resources Grant\n2024.07901.CPCA.A2\n2024-25\nFCT Advanced Computational Resources Grant\n2023.10973.CPCA\n\n\nPast funding\n\n2024\nFCT Advanced Computational Resources Grant\n2023.09536.CPCA.A1\n2023\nFCT Advanced Computational Resources Grant\n2022.46814.CPCA.A0\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "my_contact.html",
+    "href": "my_contact.html",
+    "title": "Contact me",
+    "section": "",
+    "text": "I am always keen on establishing new collaborations.\nReach out to ask about my science, suggest collaborations, or just to say hi!\n\nLoading…\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "smart.html",
+    "href": "smart.html",
+    "title": "Open Science",
+    "section": "",
+    "text": "Skills and Methods to Achieve Reproducible Theses\nCharacterization of the Practice\nThe SMART method (Skills and Methods to Achieve Reproducible Theses) is designed to ensure good scientific data management and the reproducibility of results in postgraduate theses. It addresses the need to organize thesis project data in a centralized repository, perform regular backups, create continuous progress reports, and keep detailed records of data analyses.\nObjectives and Goals\n\nEnsure scientific data organization and accessibility by storing data in a central repository.\nImplement consistent backup procedures to prevent data loss.\nPromote transparency and continuity in data analysis through detailed documentation.\nFacilitate continuous project progress evaluation via regular updates and feedback.\n\nImplementation\nSMART has been implemented in four thesis projects at UAlg using tools like Git, GitHub, R, and RMarkdown. Key actions include setting up GitHub accounts, conducting workshops, creating RMarkdown templates, and maintaining continuous documentation and progress tracking (See implementation schedule below - In portuguese only).\nStakeholder Involvement\nThe practice benefits postgraduate students and their advisors by providing a structured framework for scientific projects, improving productivity, and ensuring continuous project monitoring. It has received positive feedback from all involved parties.\nResults and Impacts\nSMART has significantly improved data organization and accessibility, increased transparency in analyses, and facilitated continuous project monitoring. It has resulted in completed theses, publications in international journals, and the development of R packages and markdown notebooks.\nSustainability and Transferability\nSMART is sustainable due to its use of free tools and promotes a culture of scientific transparency and reproducibility. It is adaptable to different research contexts and disciplines, enhancing UAlg’s academic reputation and operational efficiency.\nInnovation and Continuous Improvement\nSMART introduces a systematic approach to data management and scientific reproducibility, addressing the previously scattered and vulnerable data storage practices. It has been evaluated and improved through continuous feedback, showing positive results and enthusiastic adoption.\nContribution to Sustainable Development Goals (SDGs)\nThe practice contributes to:\n\nQuality Education (Goal 4) by enhancing technical and professional skills.\nIndustry, Innovation, and Infrastructure (Goal 9) by strengthening scientific research and technological capabilities.\n\nImplementation schedule\nPortuguese only\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "my_lab.html",
+    "href": "my_lab.html",
+    "title": "My Lab",
+    "section": "",
+    "text": "Ramiro Magno\n\n\nCurrent member | Senior Data Scientist\n\n\n\n\n\n\n\n\n\n\n\n\nAna Cristina Fernandes\n\n\nCurrent member | PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\nIsmail Gbadamosi\n\n\nExternal Collaborator | Researcher\n\n\n\n\n\n\n\n\n\n\n\n\nCatarina Gomes Ferreira\n\n\nFormer member | Master Student\n\n\n\n\n\n\n\n\n\n\n\n\nMarta Liber\n\n\nFormer member | Master Student\n\n\n\n\n\nNo matching items\n Back to top"
+  },
+  {
+    "objectID": "my_science.html",
+    "href": "my_science.html",
+    "title": "My Science",
+    "section": "",
+    "text": "I am a full time scientist, and curiosity is my main driver. I am passionate about Open Science and I am always keen on establishing new collaborations.\nAcademic Resume | I have a PhD in Medical Sciences from the Radboud Universiteit (Nijmengen, The Netherlands); a Masters degree in Oncology by ICBAS - Universidade do Porto (Portugal); and a Bachelor degree in Applied Biology by Universidade do Minho Braga (Portugal). I have published over 27 articles in international journals, developed several RData packages as well as other software tools for the biomedical research community.\nWork | I use Computational Biology/Bioinformatics as a way of answering biologically relevant questions. I have used OMICs datasets to study the genetic regulation of cancer, early vertebrate embryo development, stem cell differentiation, and mitochondrial evolution.\nInterests | My research interests are focused on understanding how gene expression profiles translate into robust genetic modules that explain the phenotypic plasticity observed in healthy and diseased cells, particularly in cancer. Such knowledge holds the promise to better explain the molecular mechanisms underlying cancer biology.\n\n\nCACAU Project | Cancer causality for precision oncology\n\n\n\n\nDEvoCancer Project | Differential Allelic Expression in Breast Cancer mutations\n\n\n\n\nClockOME Project | microRNA regulation of the vertebrate embryo molecular clock\n\n\n\n\nSPLICE Project | Alternative splicing in cardiomyogenesis\n\n\n\n\nMy PhD Project | The alternative evolutionary fates of mitochondrial proteins\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "the_bioLogical_footnote_blog/book_of_why/bow.html#tldr",
+    "href": "the_bioLogical_footnote_blog/book_of_why/bow.html#tldr",
+    "title": "The Book of Why | Judea Pearl & Dana Mackenzie",
+    "section": "TL;DR",
+    "text": "TL;DR\nThe Book of Why argues that data alone cannot explain the world. Judea Pearl shows why correlation is not enough, introduces a clear framework for causal reasoning, and explains how causal models let us answer the questions that matter: what happens if we intervene, and what would have happened otherwise? It is a call to move beyond prediction and toward genuine understanding: in science, AI, and everyday decision-making.",
+    "crumbs": [
+      "Home",
+      "The BioLogical Footnote",
+      "Book of Why",
+      "The Book of Why | Judea Pearl & Dana Mackenzie"
+    ]
+  },
+  {
+    "objectID": "the_bioLogical_footnote_blog/book_of_why/bow.html#the-full-story",
+    "href": "the_bioLogical_footnote_blog/book_of_why/bow.html#the-full-story",
+    "title": "The Book of Why | Judea Pearl & Dana Mackenzie",
+    "section": "The Full Story",
+    "text": "The Full Story\n\nThe Hook\nWhat if most of what we call “data-driven insight” is fundamentally unable to answer the questions we actually care about? In The Book of Why, Judea Pearl makes a provocative claim: modern data analysis excels at finding patterns, yet often fails at explaining why things happen. And without “why”, prediction alone is not the same as understanding.\n\n\nThe Big Idea\nAt the heart of the book is a simple but radical message: correlation is not causation, and pretending otherwise limits science, policy, and artificial intelligence. Judea Pearl argues that we need a formal language of causation - one that allows us to reason about interventions, explanations, and counterfactuals, not just associations in data.\nTo do this, he introduces a rigorous framework based on causal models, diagrams, and logical rules that make assumptions explicit rather than hidden.\n\n\nHow It Works?\nA key tool in the book is the use of causal diagrams (directed acyclic graphs) - simple arrows that encode how variables influence one another. These diagrams clarify which variables should be controlled for, and which should not, something traditional statistical approaches often get wrong.\nJudea Pearl uses Simpson’s paradox as a recurring example: situations where a trend appears in every subgroup but reverses when the data are combined. The paradox is not a statistical oddity; it is a signal that causal structure has been ignored. Once the causal relationships are made explicit, the paradox dissolves.\nThe book also explains why adjusting for the wrong variable, such as a collider, can introduce bias rather than remove it. These ideas are counterintuitive when learned through equations alone, but become immediately clear when visualised causally.\n\n\nThe Plot Twist\nOne of the most striking ideas in The Book of Why is the Ladder of Causation, a three-level hierarchy of reasoning:\n\nSeeing - observing correlations (“What is?”)\nDoing - intervening (“What happens if we do X?”)\nImagining - counterfactuals (“What would have happened if…?”)\n\nJudea Pearl argues that much of modern machine learning and AI is stuck on the first rung. These systems can predict extremely well, yet fail when asked simple causal questions. A model that cannot reason about interventions or counterfactuals, he argues, is fundamentally limited, no matter how impressive its accuracy.\n\n\nWhy Should Scientists Care?\nFor scientists, the book is a direct challenge to decades of methodological caution that discouraged causal language. Judea Pearl argues that avoiding words like “cause” and “effect” did not make science safer - it made it less honest about its assumptions.\nCausal models do not eliminate uncertainty: they expose it. By making assumptions explicit and testable, they allow disagreements to be resolved logically rather than rhetorically. From epidemiology to economics, the book shows how causal reasoning can settle questions that statistics alone could not.\n\n\nWhy Should Non-Scientists Care?\nBecause real-world decisions are causal by nature. When we ask whether a treatment works, a policy helps, or an action caused harm, we are not asking about correlations, we are asking what would happen if we acted differently.\nThe Book of Why equips readers with a way to think clearly about such questions. It explains why “the data says so” is often not enough, and why understanding cause and effect is essential for medicine, public policy, law, and everyday reasoning.",
+    "crumbs": [
+      "Home",
+      "The BioLogical Footnote",
+      "Book of Why",
+      "The Book of Why | Judea Pearl & Dana Mackenzie"
+    ]
+  },
+  {
+    "objectID": "the_bioLogical_footnote_blog/book_of_why/bow.html#the-biological-footnote",
+    "href": "the_bioLogical_footnote_blog/book_of_why/bow.html#the-biological-footnote",
+    "title": "The Book of Why | Judea Pearl & Dana Mackenzie",
+    "section": "The BioLogical Footnote",
+    "text": "The BioLogical Footnote\nJudea Pearl’s message is empowering: we are allowed to ask why - and we now have the tools to answer it properly.\n\n“Prediction can be impressive, but explanation is transformative.”",
+    "crumbs": [
+      "Home",
+      "The BioLogical Footnote",
+      "Book of Why",
+      "The Book of Why | Judea Pearl & Dana Mackenzie"
+    ]
+  },
+  {
     "objectID": "the_bioLogical_footnote_blog/life/life.html",
     "href": "the_bioLogical_footnote_blog/life/life.html",
     "title": "Has life been objectively defined? No!",
     "section": "",
-    "text": "ChatGPT image",
+    "text": "Mural depicting “Life”. Faro, Portugal",
     "crumbs": [
       "Home",
       "The BioLogical Footnote",
@@ -498,11 +628,96 @@
     ]
   },
   {
+    "objectID": "the_bioLogical_footnote_blog/simpsons_paradox/sp.html",
+    "href": "the_bioLogical_footnote_blog/simpsons_paradox/sp.html",
+    "title": "When the Numbers Lie",
+    "section": "",
+    "text": "“Together, one story. Apart, different ones.” | Road in Alentejo, Portugal",
+    "crumbs": [
+      "Home",
+      "The BioLogical Footnote",
+      "Simpsons Paradox",
+      "When the Numbers Lie"
+    ]
+  },
+  {
+    "objectID": "the_bioLogical_footnote_blog/simpsons_paradox/sp.html#tldr",
+    "href": "the_bioLogical_footnote_blog/simpsons_paradox/sp.html#tldr",
+    "title": "When the Numbers Lie",
+    "section": "TL;DR",
+    "text": "TL;DR\nA drug can help men. It can help women. And yet help nobody. That’s Simpson’s Paradox: the statistical trap where trends in subgroups vanish or reverse when you combine the data. It’s not a math error; it’s a warning that numbers don’t interpret themselves. The takeaway: never trust an aggregate statistic without asking what’s hiding underneath.",
+    "crumbs": [
+      "Home",
+      "The BioLogical Footnote",
+      "Simpsons Paradox",
+      "When the Numbers Lie"
+    ]
+  },
+  {
+    "objectID": "the_bioLogical_footnote_blog/simpsons_paradox/sp.html#the-full-story",
+    "href": "the_bioLogical_footnote_blog/simpsons_paradox/sp.html#the-full-story",
+    "title": "When the Numbers Lie",
+    "section": "The Full Story",
+    "text": "The Full Story\nAs Portugal counts down to its presidential election in January 2026, I’ve found myself unable to escape the chorus of political commentators dissecting poll after poll. This election is unprecedented: 11 candidates running for the presidency, though the ballot will somehow list 14 names (a peculiarity that deserves its own post entirely in another type of blog). But what’s been nagging at me isn’t the crowded field. It’s something the analysts keep repeating like a mantra: “The numbers don’t lie.” They acknowledge, almost dismissively, that different polls yield different results: due to different timing, different sample sizes, slightly different methodologies, but they always circle back to that reassuring phrase: “The numbers don’t lie”. And every time I hear it, something in my brain twitches. Because while it’s true that numbers don’t lie, they also don’t speak for themselves. They can tell contradictory truths simultaneously. They can show one thing in the whole and the opposite in the parts. This is what kept popping into my mind as I watched yet another commentator gesture at bar charts: Simpson’s Paradox.\nThis is a statistical phenomenon that, once you understand it, will forever change how you look at data. In fact, the Simpson’s Paradox, reveals something profound about the relationship between statistics, causation, and the stories we tell ourselves about evidence.\n\nThe Paradox in Action\nImagine a clinical trial for a new drug. You analyze the results and find:\n\nAmong men: the drug works better than placebo (61% vs 57% recovery)\nAmong women: the drug works better than placebo (44% vs 40% recovery)\n\nSo the drug helps everyone, right? Time to approve it?\nHere’s the twist: when you pool all the data together, the drug shows no effect whatsoever: exactly 50% recovery in both the treatment and control groups.\nThis isn’t a mathematical error. It’s Simpson’s Paradox: an association that holds in every subgroup can vanish - or even reverse - when you combine the data.\n\n\nHow Is This Possible?\nThe key lies in how people ended up in each group. In our example, women were more likely to receive the treatment (27 of 40 treated patients were women), while men dominated the control group. Since men recover at higher rates regardless of treatment, this imbalance masks the drug’s genuine effect.\nThe aggregate statistics aren’t lying, exactly. They’re just answering a different question than the one we think we’re asking.\n\n\nWhy This Matters Beyond Statistics\nWhat fascinates me about Simpson’s Paradox isn’t the mathematics (that part is actually straightforward once you see it). What’s fascinating is what it reveals about human reasoning.\nJudea Pearl (see my blog post The book of why), the computer scientist who revolutionized causal inference, argues that the paradox feels paradoxical because we instinctively conflate two very different things:\n\nObservational claims: “People who take this drug are more likely to recover.”\nCausal claims: “Taking this drug will make you more likely to recover.”\n\nThese sound similar but aren’t the same. The first describes a correlation in existing data. The second describes what would happen if we intervened - if we actually gave the drug to someone.\nPearl’s insight is that if we interpret the conditional probabilities causally (as describing what happens when we intervene), then Simpson-style reversals become impossible, provided the partitioning variable (like gender) isn’t itself affected by the treatment. Our intuition isn’t wrong - it’s just operating on causal assumptions that the raw statistics don’t warrant.\n\n\nThe Real-World Stakes\nThis isn’t just academic hairsplitting. Simpson’s Paradox has appeared in:\n\nCOVID-19 mortality data: Early in the pandemic, Italy’s overall case fatality rate exceeded China’s, yet within every age group, China’s rate was higher. The difference? Italy had an older population.\nUniversity admissions: Berkeley’s famous 1973 study showed men admitted at higher rates overall, yet no individual department favored men. Women simply applied disproportionately to more competitive departments.\nEducational testing: SAT scores rose in US between 1992 and 2002, yet scores fell within every grade-point-average category. Grade inflation meant each category was losing its best students to the tier above.\n\nIn each case, the aggregate statistic tells a true but misleading story. The subgroup statistics tell a different true story. Neither is wrong - they are just answering different questions.\n\n\nThe Deeper Lesson\nI think Simpson’s Paradox endures as a topic of fascination because it sits at the intersection of mathematics, psychology, and philosophy. It forces us to confront uncomfortable questions:\nWhat are we actually asking when we ask if something “works”?\nThe drug example shows that “works” is ambiguous. Works for whom? Under what conditions? Compared to what counterfactual?\nCan we ever trust aggregate statistics?\nYes, but only if we understand the causal structure generating them. A well-designed randomized trial eliminates the paradox by ensuring treatment assignment is independent of confounding factors. The mathematics doesn’t change; we just control which mathematics applies.\nWhy does our intuition fail here?\nPerhaps because in everyday reasoning, we rarely encounter situations where a variable (like gender) is simultaneously associated with both the cause (treatment assignment) and the effect (recovery). Or perhaps because we’ve evolved to think causally, and the statistical framing tricks us into applying causal intuitions where they don’t belong.\n\n\nA Humbling Thought\nSimpson’s Paradox reminds us that data doesn’t interpret itself. Behind every dataset lies a causal structure, i.e. a web of relationships determining who ends up where and why. Statistics can describe patterns in the data, but they can’t tell us which patterns reflect genuine causal relationships and which are artifacts of how the data were generated.\nThis is why I find the paradox oddly comforting. It’s a built-in reminder that analysis requires humility. The numbers are never the whole story. The whole story requires understanding the process that produced the numbers, and that understanding doesn’t come from the data alone.",
+    "crumbs": [
+      "Home",
+      "The BioLogical Footnote",
+      "Simpsons Paradox",
+      "When the Numbers Lie"
+    ]
+  },
+  {
+    "objectID": "the_bioLogical_footnote_blog/simpsons_paradox/sp.html#why-should-non-scientists-care",
+    "href": "the_bioLogical_footnote_blog/simpsons_paradox/sp.html#why-should-non-scientists-care",
+    "title": "When the Numbers Lie",
+    "section": "Why Should Non-Scientists Care?",
+    "text": "Why Should Non-Scientists Care?\nEvery day, you’re bombarded with statistics claiming to prove something: that a diet works, that a policy failed, that one group outperforms another. Simpson’s Paradox reveals that these numbers can be simultaneously true and deeply misleading - not through anyone’s dishonesty, but through the hidden structure of how data gets generated. Understanding this paradox is intellectual self-defense. It’s the difference between being manipulated by a cherry-picked aggregate statistic and asking the right question: “But what happens when you break it down by…?” Whether you’re evaluating a medical treatment, interpreting crime statistics, assessing school performance, or deciding whether some intervention actually caused an outcome, the paradox teaches a crucial lesson that extends far beyond mathematics: the story you see depends entirely on how you slice the data, and the “right” way to slice it depends on causal knowledge that the statistics themselves cannot provide. In a world where data is increasingly weaponized to persuade, knowing that associations can reverse - that a drug can help everyone yet help no one, that discrimination can exist in the whole yet vanish in the parts - transforms you from a passive consumer of statistics into someone who knows which questions to ask.\nThe next time you see a headline claiming that some treatment “doesn’t work” or that some factor “has no effect,” ask yourself: in which subgroups? Under what conditions? And what’s the causal story that generated these statistics in the first place?",
+    "crumbs": [
+      "Home",
+      "The BioLogical Footnote",
+      "Simpsons Paradox",
+      "When the Numbers Lie"
+    ]
+  },
+  {
+    "objectID": "the_bioLogical_footnote_blog/simpsons_paradox/sp.html#the-biological-footnote",
+    "href": "the_bioLogical_footnote_blog/simpsons_paradox/sp.html#the-biological-footnote",
+    "title": "When the Numbers Lie",
+    "section": "The BioLogical Footnote",
+    "text": "The BioLogical Footnote\n\nPerhaps what makes Simpson’s Paradox so persistently unsettling is that it mirrors something we already know about life but prefer to ignore: context isn’t just important, it is constitutive. We want to believe that facts are facts, that a treatment either works or it doesn’t, that a policy either succeeds or fails. But the paradox whispers something more uncomfortable: the same intervention, the same choice, the same action can be simultaneously beneficial and harmful depending on where you stand. This isn’t relativism; the math is precise. It’s something stranger: a reminder that “what happened” is never separable from “to whom” and “under what circumstances.” The paradox doesn’t just challenge how we analyze data. It challenges the very notion that there’s a view from nowhere, a god’s-eye perspective from which the true effect simply is. Maybe the deepest lesson isn’t statistical at all: it’s that the question “does it work?” is incomplete until we finish the sentence.",
+    "crumbs": [
+      "Home",
+      "The BioLogical Footnote",
+      "Simpsons Paradox",
+      "When the Numbers Lie"
+    ]
+  },
+  {
+    "objectID": "the_bioLogical_footnote_blog/simpsons_paradox/sp.html#to-explore-further",
+    "href": "the_bioLogical_footnote_blog/simpsons_paradox/sp.html#to-explore-further",
+    "title": "When the Numbers Lie",
+    "section": "To Explore Further",
+    "text": "To Explore Further\nSimpson’s paradox | Stanford Encyclopedia of Philosophy",
+    "crumbs": [
+      "Home",
+      "The BioLogical Footnote",
+      "Simpsons Paradox",
+      "When the Numbers Lie"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome",
     "section": "",
     "text": "Last update | January 2026\n\n\n\n\nWelcome.\nI am a biomedical scientist working at the intersection of biology and computation, using data-driven approaches to understand how living systems function. My main research interest is cancer biology, with additional interests in vertebrate embryo development, mitochondria, and evolution.\nThis site brings together different parts of my scientific life: my academic CV, ongoing and past research, outreach activities, a science blog, and a few personal interests beyond the lab and the code.\nI strongly value open and reproducible science, and I see research as a collaborative endeavour. If something here resonates with your work or curiosity, I would be glad to hear from you.\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "templates/blog_template.html",
+    "href": "templates/blog_template.html",
+    "title": "Title | Sub-Title",
+    "section": "",
+    "text": "ChatGPT image"
   },
   {
     "objectID": "templates/blog_template.html#tldr",
