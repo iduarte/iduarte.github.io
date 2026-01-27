@@ -169,7 +169,7 @@
     "href": "the_bioLogical_footnote_blog/gene/gene.html",
     "title": "So, what is a gene?",
     "section": "",
-    "text": "ChatGPT image",
+    "text": "Ceci n’est pas un gène. Image generated with Biorender.",
     "crumbs": [
       "Home",
       "The BioLogical Footnote",
@@ -539,7 +539,7 @@
     "href": "the_bioLogical_footnote_blog/index.html",
     "title": "The BioLogical Footnote",
     "section": "",
-    "text": "BioData.pt\n\n\nWhat is it?\n\n\n\n\n\n\n\n\n\n\n\n\nBioinformatics is molecular biology\n\n\nWhen biology became data, molecular biology learned to code.\n\n\n\n\n\n\n\n\n\n\n\n\nThe Book of Why | Judea Pearl & Dana Mackenzie\n\n\nWhat if science could answer why?\n\n\n\n\n\n\n\n\n\n\n\n\nSo, what is a gene?\n\n\nCan you objectively define what a gene is?\n\n\n\n\n\n\n\n\n\n\n\n\nBiology isn’t physics… Nor chemistry!\n\n\nInformation: The one concept every biologist needs to know.\n\n\n\n\n\n\n\n\n\n\n\n\nHas life been objectively defined? No!\n\n\nSo, what are biologists studying?\n\n\n\n\n\n\n\n\n\n\n\n\n1+Million Genomes Minimal Dataset for Cancer\n\n\nHow to combine and share cancer data?\n\n\n\n\n\n\n\n\n\n\n\n\nThe Quest to Cure Cancer\n\n\nCan cancer be cured?\n\n\n\n\n\n\n\n\n\n\n\n\nThe Reproducibility Crisis\n\n\nWhat is it, and why should you care?\n\n\n\n\n\n\n\n\n\n\n\n\nWhen the Numbers Lie\n\n\nSimpson’s Paradox and the Hidden Structure of Data\n\n\n\n\n\nNo matching items\n Back to top",
+    "text": "BioData.pt\n\n\nWhat is it?\n\n\n\n\n\n\n\n\n\n\n\n\nBioinformatics is molecular biology\n\n\nWhen biology became data, molecular biology learned to code.\n\n\n\n\n\n\n\n\n\n\n\n\nThe Book of Why | Judea Pearl & Dana Mackenzie\n\n\nWhat if science could answer why?\n\n\n\n\n\n\n\n\n\n\n\n\nSo, what is a gene?\n\n\nCan you objectively define what a gene is?\n\n\n\n\n\n\n\n\n\n\n\n\nBiology is… Information!\n\n\nIt is not just physics, nor just chemistry.\n\n\n\n\n\n\n\n\n\n\n\n\nHas life been objectively defined? No!\n\n\nSo, what are biologists studying?\n\n\n\n\n\n\n\n\n\n\n\n\n1+Million Genomes Minimal Dataset for Cancer\n\n\nHow to combine and share cancer data?\n\n\n\n\n\n\n\n\n\n\n\n\nThe Quest to Cure Cancer\n\n\nCan cancer be cured?\n\n\n\n\n\n\n\n\n\n\n\n\nThe Reproducibility Crisis\n\n\nWhat is it, and why should you care?\n\n\n\n\n\n\n\n\n\n\n\n\nWhen the Numbers Lie\n\n\nSimpson’s Paradox and the Hidden Structure of Data\n\n\n\n\n\nNo matching items\n Back to top",
     "crumbs": [
       "Home",
       "The BioLogical Footnote"
@@ -548,66 +548,66 @@
   {
     "objectID": "the_bioLogical_footnote_blog/information_in_biology/iib.html",
     "href": "the_bioLogical_footnote_blog/information_in_biology/iib.html",
-    "title": "Biology isn’t physics… Nor chemistry!",
+    "title": "Biology is… Information!",
     "section": "",
     "text": "Information in the form of directional signs. Açores, Portugal",
     "crumbs": [
       "Home",
       "The BioLogical Footnote",
       "Information in Biology",
-      "Biology isn't physics... Nor chemistry!"
+      "Biology is... Information!"
     ]
   },
   {
     "objectID": "the_bioLogical_footnote_blog/information_in_biology/iib.html#tldr",
     "href": "the_bioLogical_footnote_blog/information_in_biology/iib.html#tldr",
-    "title": "Biology isn’t physics… Nor chemistry!",
+    "title": "Biology is… Information!",
     "section": "TL;DR",
-    "text": "TL;DR\nWhy don’t living things fall apart like everything else in the universe? They’re information-processing machines that use energy to build and maintain order. DNA isn’t just a molecule: it is functional code shaped by billions of years of evolutionary debugging. Every major leap in life’s complexity (cells, multicellularity, brains) happened when organisms found new ways to store and use information. This isn’t metaphor. Diseases are information glitches. Development is orchestrated data flow. Evolution is an algorithm discovering useful sequences from impossibly vast possibilities. Understanding biology without information is like understanding software by only studying transistors. You need both the hardware and the code.",
+    "text": "TL;DR\nWhy don’t living things fall apart like everything else in the universe? They’re information-processing machines that use energy to build and maintain order. DNA isn’t just a molecule: it is functional code shaped by millions of years of evolutionary debugging. Every major leap in life’s complexity (cells, multicellularity, brains) happened when organisms found new ways to store and use information. This isn’t metaphor. Diseases are information glitches. Development is orchestrated data flow. Evolution is an algorithm discovering useful sequences from impossibly vast possibilities. Understanding biology without information is like understanding software by only studying transistors. You need both the hardware and the code.",
     "crumbs": [
       "Home",
       "The BioLogical Footnote",
       "Information in Biology",
-      "Biology isn't physics... Nor chemistry!"
+      "Biology is... Information!"
     ]
   },
   {
     "objectID": "the_bioLogical_footnote_blog/information_in_biology/iib.html#the-full-story",
     "href": "the_bioLogical_footnote_blog/information_in_biology/iib.html#the-full-story",
-    "title": "Biology isn’t physics… Nor chemistry!",
+    "title": "Biology is… Information!",
     "section": "The Full Story",
     "text": "The Full Story\n\nInformation as Biology’s Organizing Principle\nThe concept of information represents one of the most profound intellectual shifts in modern biology - not merely a metaphor, but a fundamental organizing principle that reveals why living systems behave so differently from simple physical systems.\n\n\nWhy Every Biologist Should Care\nConsider this paradox: thermodynamics tells us that entropy always increases, yet living organisms create and maintain extraordinary order. They grow, reproduce, and evolve increasingly complex structures. This apparent contradiction dissolves when we recognize that biological systems are fundamentally information-processing entities that use energy to create, maintain, and transmit information against the gradient of entropy.\nWithout understanding information, you’re missing the forest for the trees. You might catalog every molecular interaction in a cell, yet fail to grasp why those particular interactions exist and persist across billions of years of evolution.\n\n\nWhat Is Biological Information?\nBiological information is specification with functional consequences. This definition has three critical components:\nSpecification: The DNA sequence ATGCCG specifies something different from ATGCCT. The difference matters because it changes which amino acid gets incorporated into a protein.\nFunction: Not all specification is information. Random sequences specify states, but biological information specifically refers to sequences that do work - they fold proteins, regulate genes, or guide development. Information is that which reduces uncertainty about functionally relevant outcomes.\nContext-dependence: Here’s where it gets philosophically rich: information only exists in relation to an interpretive system. The genetic code is meaningless without ribosomes, tRNAs, and the entire translation machinery. This makes biological information fundamentally different from Shannon information (which treats all sequences as equivalent) and closer to semantic information.\n\n\nThe Philosophical Foundation\nJohn Maynard Smith and Eors Szathmáry’s concept of major evolutionary transitions provides the clearest argument for information’s centrality. Every major leap in biological complexity - from replicating molecules to chromosomes, from prokaryotes to eukaryotes, from single cells to multicellular organisms - involved new ways of storing, transmitting, or processing information.\nThis isn’t coincidental. It reflects a deep principle: evolution is an information-generating process. Natural selection acts as an algorithm that discovers functional sequences from the incomprehensibly vast space of possible sequences. The human genome contains roughly 3 billion base pairs, representing one arrangement from 4(3×109) possibilities - a number so large it makes the number of atoms in the universe look quaint.\n\n\nThe Teleosemantics Argument\nHere’s where philosophy of science becomes indispensable. How can we talk about biological information carrying “meaning” without invoking vitalism or teleology?\nThe answer lies in teleosemantics (primarily developed by Ruth Millikan and Karen Neander): biological information has meaning because of its evolutionary history. A gene “means” build a particular protein because organisms with that sequence-to-function relationship survived and reproduced more successfully than those without it. The meaning is grounded in causal history, not mysterious purpose.\nThis resolves the apparent circularity: genes specify proteins, but only because evolution selected genes that specify useful proteins. Information and function co-evolve.\n\n\nInformation Flow as Causation\nErnst Mayr distinguished between proximate and ultimate causation in biology. Information provides the bridge:\n\nProximate: How does development work? Through precisely orchestrated information flows - transcription factors binding enhancers, signaling cascades, epigenetic marks guiding cell fate.\nUltimate: Why do these particular information flows exist? Because they encoded solutions to evolutionary problems.\n\nEvery developmental process, every physiological response, every behavior involves information transfer that was selected for its functional consequences. When you study any biological phenomenon without considering its information architecture, you’re like someone trying to understand software by examining only the physics of transistors.\n\n\nThe Counterargument Worth Considering\nSome philosophers (notably C. Kenneth Waters) argue that “genetic information” is a misleading metaphor that obscures the distributed, context-dependent nature of causation in development. They’re right that we shouldn’t be genocentric - information exists at multiple levels (epigenetic, cellular, ecological).\nBut this critique actually strengthens the case for informational thinking: it forces us to recognize that biology involves information processing at every scale, from molecular to ecological. The question isn’t whether information is relevant, but rather which information flows matter for explaining a given phenomenon.\n\n\nPractical Implications\nUnderstanding information transforms how you think about:\n\nDisease: Many pathologies are information-processing failures (misfolded proteins, regulatory mutations, disrupted signaling)\nEvolution: Not just selection on phenotypes, but on the information that generates phenotypes\nSynthetic biology: Engineering organisms means engineering information-processing systems\nDrug development: Intervening in specific information flows rather than bluntly blocking pathways\n\nIn your clinical research work, every endpoint you measure ultimately traces back to information flows that went right or wrong. Survival analysis isn’t just about time-to-event - it’s about how long information-processing systems (patients’ bodies) can maintain function against entropic decay and pathological perturbation.\n\n\nThe Bottom Line\nThinking informationally doesn’t replace molecular, cellular, or organismal biology - it integrates them. It reveals the logic underlying the mechanisms. And that logical structure is what makes biology more than physics, what makes it a science of functional organization maintained across time through information transmission.",
     "crumbs": [
       "Home",
       "The BioLogical Footnote",
       "Information in Biology",
-      "Biology isn't physics... Nor chemistry!"
+      "Biology is... Information!"
     ]
   },
   {
     "objectID": "the_bioLogical_footnote_blog/information_in_biology/iib.html#the-biological-footnote",
     "href": "the_bioLogical_footnote_blog/information_in_biology/iib.html#the-biological-footnote",
-    "title": "Biology isn’t physics… Nor chemistry!",
+    "title": "Biology is… Information!",
     "section": "The BioLogical Footnote",
     "text": "The BioLogical Footnote\n\nTo ignore information in biology is to study the hardware while ignoring the software. Both are real, both are causal, both are necessary for explanation.",
     "crumbs": [
       "Home",
       "The BioLogical Footnote",
       "Information in Biology",
-      "Biology isn't physics... Nor chemistry!"
+      "Biology is... Information!"
     ]
   },
   {
     "objectID": "the_bioLogical_footnote_blog/information_in_biology/iib.html#to-explore-further",
     "href": "the_bioLogical_footnote_blog/information_in_biology/iib.html#to-explore-further",
-    "title": "Biology isn’t physics… Nor chemistry!",
+    "title": "Biology is… Information!",
     "section": "To Explore Further",
     "text": "To Explore Further\nBiological Information | Stanford Encyclopedia of Philosophy\nThe Major Transitions in Evolution\nCauses that Make a Difference",
     "crumbs": [
       "Home",
       "The BioLogical Footnote",
       "Information in Biology",
-      "Biology isn't physics... Nor chemistry!"
+      "Biology is... Information!"
     ]
   },
   {
